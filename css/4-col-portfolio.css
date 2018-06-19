@@ -1,0 +1,48 @@
+/*!
+ * Start Bootstrap - 4 Col Portfolio (https://startbootstrap.com/template-overviews/4-col-portfolio)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-4-col-portfolio/blob/master/LICENSE)
+ */
+
+body {
+  padding-top: 54px;
+  background-color: #000000;}
+
+@media (min-width: 992px) {
+  body {    padding-top: 56px;}}
+
+.portfolio-item {
+  margin-bottom: 30px;}
+
+.pagination {
+  margin-bottom: 30px;}
+
+/* css de la hoja de créditos */
+#creditoPrincip {color:#FF0040;font-size: 20px;  font-family: "Arial", serif;}
+#creditoSecundar {color:#F7FE2E;font-size: 17px;  font-family: "Arial", serif;}
+#creditoInf {color:#ffffff;font-size: 14px; font-family: "Arial", serif;}
+
+
+/* Textos en general */
+
+h1 {color: #FE2E64;}
+h2 {color: #F7FE2E;}
+h3 {color: #00ADCB;}
+h4  {color: #FF0040;}
+h5 {text-decoration: underline;}
+.intro {color:#FFFFFF;}
+
+
+
+video { width: 100%; height: auto;}
+
+.card-text { font-weight: 700; }
+
+.modal-header {background-color: #FF4000;}
+.card {background-color: #FAAC58;}
+
+
+
+#imagen_deco {width: 1200px; height:100px;}
+#logo {width: 70px; height: 55px;}
+#img_enlace7   {width: 160px; height: 85px;}
