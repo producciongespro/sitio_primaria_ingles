@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="icon" href="img/ico.jpg" type="image/jpg">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <title>Sitio Primaria</title>
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/4-col-portfolio.css" rel="stylesheet">
+    <script src="vendor/jquery/jquery.min.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="js/cargar_medio.js" charset="utf-8"></script>
+    <!-- Carrusel -->
+  </head>
+
+<!-- ****************PROGRAMACION DEL CARRUSEL****************************** -->
+  <script src="../jquery.js" type="text/javascript"></script>
+  <script>
+   var posicion = 0;
+   var imagenes = new Array();
+   $(document).ready(function() {
+     //alert(jQuery('.texto').html());
+     var numeroImatges = 5;
+     if(numeroImatges<=3){
+         $('.derecha_flecha').css('display','none');
+      $('.izquierda_flecha').css('display','none');
+     }
+
+       $('.izquierda_flecha').live('click',function(){
+           if(posicion>0){
+              posicion = posicion-1;
+          }else{
+              posicion = numeroImatges-3;
+          }
+          $(".carrusel").animate({"left": -($('#product_'+posicion).position().left)}, 600);
+          return false;
+       });
+
+       $('.izquierda_flecha').hover(function(){
+           $(this).css('opacity','0.5');
+       },function(){
+           $(this).css('opacity','1');
+       });
+
+       $('.derecha_flecha').hover(function(){
+           $(this).css('opacity','0.5');
+       },function(){
+           $(this).css('opacity','1');
+       });
+
+       $('.derecha_flecha').live('click',function(){
+          if(numeroImatges>posicion+3){
+              posicion = posicion+1;
+          }else{
+              posicion = 0;
+          }
+          $(".carrusel").animate({"left": -($('#product_'+posicion).position().left)}, 600);
+          return false;
+       });
+
+   });
+  </script>
+
+  <!-- *********************************** -->
+
+  <body>
+
+  <!-- **************************************** -->
+    <!-- Menú de navegacion -->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+          <div class="container">
+          <img id="logo" class="img-responsive" src="img/logo.png"> <br>
+            <a class="navbar-brand" href="#"> ...Teacher’s Guide for the New English Curriculum</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarResponsive">
+              <!-- Nombres del menú -->
+              <ul class="navbar-nav ml-auto">
+                <li class="nav-item active">
+                  <a class="nav-link"  href="primero.html">First</a>
+                </li>
+                <li class="nav-item active" >
+                  <a class="nav-link" href= "segundo.html">Segund</a>
+                </li>
+
+                <li class="nav-item active">
+                  <a class="nav-link"  href="otros.html">Others</a>
+                </li>
+
+                <li class="nav-item active">
+                  <a class="nav-link"  href="creditos.html">Crédits</a>
+                </li>
+              </ul>
+            </div>
+          </div>
+    </nav>
+  <!-- **************************************** -->
+
+<!-- CONTENIDO -->
+<div class="container">
+
+      <!-- Titulo de la página -->
+      <h1 class="my-4">Primary </h1>
+
+      <h2> Ohers</h2>
+      <p class=intro> Texto Introductorio</p> <br>
+
+<<!--INICIA EL DE VIDEOS****************************************************************************" -->
+<h3>Videos</h3>
+<div class="row">
+
+  <div class="col-lg-3 col-md-4 col-sm-6 portfolio-item">
+    <div class="card h-100">
+      <img ruta="https://www.youtube.com/embed/YJiizbdjrsM" tipo="youtube" src="img/portadas-videos/video1.jpg" class="card-img-top"  alt="">
+      <div class="card-body">
+        <h4 class="card-title">
+        CR National Team Spreads the Word English Is Important!
+        </h4>
+        <p class="card-text"> Members of the Costa Rica National Team had some encouraging words for the champions who made it to the final level of competition at the first National English Festival, November 16-18, 2015 at EARTH University.</p>
+      </div>
+    </div>
+  </div>
+
+
+
+    <div class="col-lg-3 col-md-4 col-sm-6 portfolio-item">
+      <div class="card h-100">
+        <img ruta="https://www.youtube.com/embed/tkhYrO7UxFU" tipo="youtube" src="img/portadas-videos/video2.jpg" class="card-img-top"  alt="">
+        <div class="card-body">
+          <h4 class="card-title">
+          Transforming the English Classroom through Action –Oriented Teaching and Learning
+          </h4>
+          <p class="card-text"> An example of class based on the Costa Ricans New English Curriculum </p>
+        </div>
+      </div>
+    </div>
+
+
+
+      <div class="col-lg-3 col-md-4 col-sm-6 portfolio-item">
+        <div class="card h-100">
+          <img ruta="https://www.youtube.com/embed/6yHLBpyBfs8" tipo="youtube" src="img/portadas-videos/video3.jpg" class="card-img-top"  alt="">
+          <div class="card-body">
+            <h4 class="card-title">
+            How are you?
+            </h4>
+            <p class="card-text"> Video created with the collaboration of the language students of the UCR and MEP. </p>
+          </div>
+        </div>
+      </div>
+
+
+
+        <div class="col-lg-3 col-md-4 col-sm-6 portfolio-item">
+          <div class="card h-100">
+            <img ruta="https://www.youtube.com/embed/Lq0SsBQw6Ms" tipo="youtube" src="img/portadas-videos/video4.jpg" class="card-img-top"  alt="">
+            <div class="card-body">
+              <h4 class="card-title">
+              Phonemic Awareness
+              </h4>
+              <p class="card-text"> Activities for developing phonemic awareness </p>
+            </div>
+          </div>
+        </div>
+
+
+</div>
+
+
+<!--********************************************************************" -->
+<!-- **************CARRUSEL****************** -->
+<div class="row">
+
+<div id="carrusel">
+    <a href="#" class="izquierda_flecha"><img src="img/carrusel/flecha_01.png" /></a>
+    <a href="#" class="derecha_flecha"><img src="img/carrusel/flecha_02.png" /></a>
+    <div class="carrusel">
+        <div class="product" id="product_0">
+            <img class="img_carrusel" src="img/carrusel/01.jpg" width="195px" height="100px" />
+            <p>Foto 1</p>
+
+        </div>
+        <div class="product" id="product_1">
+             <img class="img_carrusel" src="img/carrusel/02.jpg" width="195px" height="100px" />
+            <p>Foto 2</p>
+        </div>
+        <div class="product" id="product_2">
+            <img class="img_carrusel" src="img/carrusel/03.jpg" width="195px" height="100px" />
+            <p>Foto 3</p>
+        </div>
+        <div class="product" id="product_3">
+            <img class="img_carrusel" src="img/carrusel/04.jpg" width="195px" height="100px" />
+            <p>Foto 4</p>
+        </div>
+        <div class="product" id="product_4">
+            <img class="img_carrusel" src="img/carrusel/05.jpg" width="195px" height="100px" />
+            <p>Foto 5</p>
+        </div>
+
+    </div>
+</div>
+
+</div>
+
+<!--CIERRA EL PROCESO********************************************************************" -->
+
+  </div>
+
+<!-- *************************************** -->
+
+<!-- Pie de página -->
+    <footer class="py-5 bg-dark">
+      <div class="container">
+        <p class="m-0 text-center text-white">Recursos Tecnológicos del MEP <br> GESPRO </p>
+      </div>
+    </footer>
+
+<!-- ******************************************************************* -->
+    <!-- Modal para los medios se debe llamar el  id: ModalMedios y id contenedorPlayer -->
+    <div class="modal fade" id="modalMedios" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+      <div class="modal-dialog modal-lg" role="document">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title" id="exampleModalLabel">Others</h5>
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+              <span aria-hidden="true">&times;</span>
+            </button>
+            </div>
+                <div class="modal-body">
+                <div id="contenedorPlayer" class="text-center">
+                </div>
+                </div>
+              <div class="modal-footer">
+          </div>
+        </div>
+      </div>
+    </div>
+<!-- ****************************************************************** -->
+  </body>
+</html>

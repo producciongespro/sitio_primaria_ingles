@@ -25,10 +25,10 @@ body {
 
 /* Textos en general */
 
-h1 {color: #FE2E64;}
-h2 {color: #F7FE2E;}
-h3 {color: #00ADCB;}
-h4  {color: #FF0040;}
+h1 {color: #FF4000;}
+h2 {color: #FF8000;}
+h3 {color: #DF3A01;}
+h4  {color: #DF3A01;}
 h5 {text-decoration: underline;}
 .intro {color:#FFFFFF;}
 
@@ -46,3 +46,30 @@ video { width: 100%; height: auto;}
 #imagen_deco {width: 1200px; height:100px;}
 #logo {width: 70px; height: 55px;}
 #img_enlace7   {width: 160px; height: 85px;}
+
+
+/******************* estilo carrusel *******************************/
+#carrusel{float:left; width:601px; overflow:hidden; height:205px; position:relative; margin-top:20px;}
+#carrusel .izquierda_flecha{position:absolute; left:10px; z-index:1; top:50%; margin-top:-9px;}
+#carrusel .derecha_flecha{position:absolute; right:10px; z-index:1; top:50%; margin-top:-9px;}
+.carrusel{width:4000px;left:0px; position:absolute; z-index:0}
+.carrusel>div{
+    float: left;
+    height: 203px;
+    margin-right: 5px;
+    width: 195px;
+    text-align:center;
+}
+.carrusel .img_carrusel{cursor:pointer;}
+
+#content {
+    float:left;
+    width:600px;
+    margin-bottom:40px;
+    margin:0px auto;
+}
+
+.product {
+    border:#FF4000 1px solid;
+}
+/* ******************************************** */
