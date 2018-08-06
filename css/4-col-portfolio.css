@@ -6,7 +6,7 @@
 
 body {
   padding-top: 54px;
-  background-color: #000000;}
+  background-color: #F6DDCC;}
 
 @media (min-width: 992px) {
   body {    padding-top: 56px;}}
@@ -30,9 +30,9 @@ h2 {color: #FF8000;}
 h3 {color: #DF3A01;}
 h4  {color: #DF3A01;}
 h5 {text-decoration: underline;}
-.intro {color:#FFFFFF;}
+.intro {color:#545352;}
 
-#contacto {color:#FFFFFF;}
+#contacto {color:##545352;}
 
 video { width: 100%; height: auto;}
 
@@ -49,27 +49,6 @@ video { width: 100%; height: auto;}
 
 
 /******************* estilo carrusel *******************************/
-#carrusel{float:left; width:601px; overflow:hidden; height:205px; position:relative; margin-top:20px;}
-#carrusel .izquierda_flecha{position:absolute; left:10px; z-index:1; top:50%; margin-top:-9px;}
-#carrusel .derecha_flecha{position:absolute; right:10px; z-index:1; top:50%; margin-top:-9px;}
-.carrusel{width:4000px;left:0px; position:absolute; z-index:0}
-.carrusel>div{
-    float: left;
-    height: 203px;
-    margin-right: 5px;
-    width: 195px;
-    text-align:center;
-}
-.carrusel .img_carrusel{cursor:pointer;}
-
-#content {
-    float:left;
-    width:600px;
-    margin-bottom:40px;
-    margin:0px auto;
-}
-
-.product {
-    border:#FF4000 1px solid;
-}
+.carousel-inner { text-align: center; }
+.carousel .item > img { display: inline-block; }
 /* ******************************************** */
