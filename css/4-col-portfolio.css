@@ -6,7 +6,7 @@
 
 body {
   padding-top: 54px;
-  background-color: #E5EFEA;}
+  background-color: #F6DDCC;}
 
 @media (min-width: 992px) {
   body {    padding-top: 56px;}}
@@ -25,21 +25,21 @@ body {
 
 /* Textos en general */
 
-h1 {color: #D269D2;}
-h2 {color: #D269D2;}
-h3 {color: #D269D2;}
-h4  {color: #12724C;}
+h1 {color: #FF4000;}
+h2 {color: #FF8000;}
+h3 {color: #DF3A01;}
+h4  {color: #DF3A01;}
 h5 {text-decoration: underline;}
 .intro {color:#545352;}
 
-#contacto {color:#545352;}
+#contacto {color:##545352;}
 
 video { width: 100%; height: auto;}
 
 .card-text { font-weight: 700; }
 
-.modal-header {background-color: #b1d3c6;}
-.card {background-color: #93BCB5; cursor: pointer;}
+.modal-header {background-color: #FF4000;}
+.card {background-color: #F5CBA7;}
 
 
 
