@@ -4,9 +4,9 @@
 
 // ****************************
 $(document).ready(function () {
-
+console.log("ready");
 	// EVENTO CLIC, al hacer clic a la imagen .card-img-top va a hacer el evento cargarMedio
-	$(".card-img-top").click(function () {
+	$(".card-img-modal").click(function () {
 		// Cargar el video en el MODAL
 		// EVENTO QUELO LLAMA AL METODO
 			cargarMedio(this);
@@ -36,7 +36,9 @@ console.log(opcion);
 				case "pdf":
 				controlMedio = $("<embed id='currentMedio' src='"+ ruta +"' type='application/pdf' width='100%' height='100%'></embed>");
 				$(controlMedio).css("height", "420px");
+				$("#pLinkDirecto").html("Trouble downloading?  <a href='"+ ruta +"' >  Try here. </a>"    );
 					break;
+
 
 					case "ppt":
 					controlMedio = $("<embed id='currentMedio' src='"+ ruta +"' type='application/ppt' width='100%' height='100%'></embed>");
@@ -46,8 +48,14 @@ console.log(opcion);
 		default:
 		console.log("extension no encontrada");
 	}
-	$("#contenedorPlayer").html(controlMedio);
-	$("#modalMedios").modal();
+
+		if (opcion!="doc") {
+			$("#contenedorPlayer").html(controlMedio);
+			$("#modalMedios").modal();
+		}
+
+
+
 }
 
 // ****************************************

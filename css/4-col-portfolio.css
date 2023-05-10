@@ -23,9 +23,10 @@ body {
 #creditoInf {color:#ffffff;font-size: 14px; font-family: "Arial", serif;}
 
 
+
 /* Textos en general */
 
-h1 {color: #277A6C;}
+h1 {color: #D269D2;}
 h2 {color: #D269D2;}
 h3 {color: #D269D2;}
 h4  {color: #12724C;}
@@ -38,7 +39,7 @@ video { width: 100%; height: auto;}
 
 .card-text { font-weight: 700; }
 
-.modal-header {background-color: #409C79;}
+.modal-header {background-color: #b1d3c6;}
 .card {background-color: #93BCB5; cursor: pointer;}
 
 
