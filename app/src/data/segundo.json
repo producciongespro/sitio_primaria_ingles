@@ -1,0 +1,450 @@
+{
+  "id": "segundo",
+  "filename": "segundo.html",
+  "title": "Sitio Primaria",
+  "heading": "Primary",
+  "subtitle": "Second 2°",
+  "intro": "The Teacher´s Guide for second grade is a pedagogical resource that orients and enriches the planning process and the implementation of the new English Curriculum. It includes videos, activities and resources to develop each of the units of the Second grade Program.",
+  "modalTitle": "Second",
+  "downloadGuides": [
+    {
+      "href": "data/segundo/guiasegundo.docx",
+      "label": "Click here to download Word Document"
+    }
+  ],
+  "carouselSlides": [],
+  "cards": [
+    {
+      "id": 1,
+      "title": "",
+      "subtitle": "",
+      "description": "",
+      "mediaType": "pdf",
+      "mediaUrl": "data/segundo/guide_second.pdf",
+      "thumbnail": "img/img_guia_segundo.jpg",
+      "alt": "",
+      "link": {
+        "href": "data/segundo/guiasegundo.docx",
+        "label": "Click here to download Word Document"
+      }
+    },
+    {
+      "id": 2,
+      "title": "",
+      "subtitle": "",
+      "description": "",
+      "mediaType": "pdf",
+      "mediaUrl": "audio/segundo/unid(1)/unit1_dialogs.pdf",
+      "thumbnail": "img/img_documento.png",
+      "alt": "",
+      "link": null
+    },
+    {
+      "id": 3,
+      "title": "Unit #1",
+      "subtitle": "PDF",
+      "description": "Unit 1 Dialogs",
+      "mediaType": "image",
+      "mediaUrl": "",
+      "thumbnail": "",
+      "alt": "Unit #1",
+      "link": null
+    },
+    {
+      "id": 4,
+      "title": "",
+      "subtitle": "",
+      "description": "",
+      "mediaType": "mp3",
+      "mediaUrl": "audio/segundo/unid(1)/2u1w1a1.mp3",
+      "thumbnail": "img/audio.png",
+      "alt": "",
+      "link": null
+    },
+    {
+      "id": 5,
+      "title": "",
+      "subtitle": "",
+      "description": "L.4. Understand basic greetings, farewells, expressions of politeness and feelings (e.g., hello, good-bye, sorry, pardon?).",
+      "mediaType": "image",
+      "mediaUrl": "",
+      "thumbnail": "",
+      "alt": "",
+      "link": null
+    },
+    {
+      "id": 6,
+      "title": "",
+      "subtitle": "",
+      "description": "",
+      "mediaType": "mp3",
+      "mediaUrl": "audio/segundo/unid(1)/2u1w2a2.mp3",
+      "thumbnail": "img/audio.png",
+      "alt": "",
+      "link": null
+    },
+    {
+      "id": 7,
+      "title": "",
+      "subtitle": "",
+      "description": "L.3. Understand simple questions, which directly concern them such as their name and where they are from.",
+      "mediaType": "image",
+      "mediaUrl": "",
+      "thumbnail": "",
+      "alt": "",
+      "link": null
+    },
+    {
+      "id": 8,
+      "title": "",
+      "subtitle": "",
+      "description": "",
+      "mediaType": "pdf",
+      "mediaUrl": "audio/segundo/unid(2)/unit2_dialogs.pdf",
+      "thumbnail": "img/img_documento.png",
+      "alt": "",
+      "link": null
+    },
+    {
+      "id": 9,
+      "title": "Unit #2",
+      "subtitle": "PDF",
+      "description": "Unit 2 Dialogs",
+      "mediaType": "image",
+      "mediaUrl": "",
+      "thumbnail": "",
+      "alt": "Unit #2",
+      "link": null
+    },
+    {
+      "id": 10,
+      "title": "",
+      "subtitle": "",
+      "description": "",
+      "mediaType": "mp3",
+      "mediaUrl": "audio/segundo/unid(2)/2u2w2a3.mp3",
+      "thumbnail": "img/audio.png",
+      "alt": "",
+      "link": null
+    },
+    {
+      "id": 11,
+      "title": "",
+      "subtitle": "",
+      "description": "L.1. Understand simple classroom instructions, such as «Stand up, please», «Come here», or «Close the door, please» when expressed slowly and clearly, possibly with accompanying gestures and pictures.",
+      "mediaType": "image",
+      "mediaUrl": "",
+      "thumbnail": "",
+      "alt": "",
+      "link": null
+    },
+    {
+      "id": 12,
+      "title": "",
+      "subtitle": "",
+      "description": "",
+      "mediaType": "mp3",
+      "mediaUrl": "audio/segundo/unid(2)/2u2w3a4.mp3",
+      "thumbnail": "img/audio.png",
+      "alt": "",
+      "link": null
+    },
+    {
+      "id": 13,
+      "title": "",
+      "subtitle": "",
+      "description": "L.3. Understand simple information about an object (for example, the size and color of a book, and where it is) if the person speaks slowly and clearly, possibly with accompanying gestures.",
+      "mediaType": "image",
+      "mediaUrl": "",
+      "thumbnail": "",
+      "alt": "",
+      "link": null
+    },
+    {
+      "id": 14,
+      "title": "",
+      "subtitle": "",
+      "description": "",
+      "mediaType": "pdf",
+      "mediaUrl": "audio/segundo/unid(3)/unit3_dialogs.pdf",
+      "thumbnail": "img/img_documento.png",
+      "alt": "",
+      "link": null
+    },
+    {
+      "id": 15,
+      "title": "Unit #3",
+      "subtitle": "PDF",
+      "description": "Unit 3 Dialogs",
+      "mediaType": "image",
+      "mediaUrl": "",
+      "thumbnail": "",
+      "alt": "Unit #3",
+      "link": null
+    },
+    {
+      "id": 16,
+      "title": "",
+      "subtitle": "",
+      "description": "",
+      "mediaType": "mp3",
+      "mediaUrl": "audio/segundo/unid(3)/2u3w1a5.mp3",
+      "thumbnail": "img/audio.png",
+      "alt": "",
+      "link": null
+    },
+    {
+      "id": 17,
+      "title": "",
+      "subtitle": "",
+      "description": "L.1. Recognize the words for people around them (e.g. father, mother, brother, sister, baby).",
+      "mediaType": "image",
+      "mediaUrl": "",
+      "thumbnail": "",
+      "alt": "",
+      "link": null
+    },
+    {
+      "id": 18,
+      "title": "",
+      "subtitle": "",
+      "description": "",
+      "mediaType": "mp3",
+      "mediaUrl": "audio/segundo/unid(3)/2u3w4a6.mp3",
+      "thumbnail": "img/audio.png",
+      "alt": "",
+      "link": null
+    },
+    {
+      "id": 19,
+      "title": "",
+      "subtitle": "",
+      "description": "L.2. Understand simple information about a person (for example, appearance and feelings) if the person speaks slowly and clearly, possibly with accompanying gestures.",
+      "mediaType": "image",
+      "mediaUrl": "",
+      "thumbnail": "",
+      "alt": "",
+      "link": null
+    },
+    {
+      "id": 20,
+      "title": "",
+      "subtitle": "",
+      "description": "",
+      "mediaType": "pdf",
+      "mediaUrl": "audio/segundo/unid(4)/unit4_dialogs.pdf",
+      "thumbnail": "img/img_documento.png",
+      "alt": "",
+      "link": null
+    },
+    {
+      "id": 21,
+      "title": "Unit #4",
+      "subtitle": "PDF",
+      "description": "Unit 4 Dialogs",
+      "mediaType": "image",
+      "mediaUrl": "",
+      "thumbnail": "",
+      "alt": "Unit #4",
+      "link": null
+    },
+    {
+      "id": 22,
+      "title": "",
+      "subtitle": "",
+      "description": "",
+      "mediaType": "mp3",
+      "mediaUrl": "audio/segundo/unid(4)/2u4w1a7.mp3",
+      "thumbnail": "img/audio.png",
+      "alt": "",
+      "link": null
+    },
+    {
+      "id": 23,
+      "title": "",
+      "subtitle": "",
+      "description": "L.2. Understand simple information about a place (e.g., where it is) and instructions, such as «Go to the library», «Come inside», if the person speaks slowly and clearly, possibly with accompanying gestures.",
+      "mediaType": "image",
+      "mediaUrl": "",
+      "thumbnail": "",
+      "alt": "",
+      "link": null
+    },
+    {
+      "id": 24,
+      "title": "",
+      "subtitle": "",
+      "description": "",
+      "mediaType": "mp3",
+      "mediaUrl": "audio/segundo/unid(4)/2u4w4a8.mp3",
+      "thumbnail": "img/audio.png",
+      "alt": "",
+      "link": null
+    },
+    {
+      "id": 25,
+      "title": "",
+      "subtitle": "",
+      "description": "L.1. Recognize and understand the words for people around them (e.g., teacher, students,principal).",
+      "mediaType": "image",
+      "mediaUrl": "",
+      "thumbnail": "",
+      "alt": "",
+      "link": null
+    },
+    {
+      "id": 26,
+      "title": "",
+      "subtitle": "",
+      "description": "",
+      "mediaType": "pdf",
+      "mediaUrl": "audio/segundo/unid(5)/unit5_dialogs.pdf",
+      "thumbnail": "img/img_documento.png",
+      "alt": "",
+      "link": null
+    },
+    {
+      "id": 27,
+      "title": "Unit #5",
+      "subtitle": "PDF",
+      "description": "Unit 5 Dialogs",
+      "mediaType": "image",
+      "mediaUrl": "",
+      "thumbnail": "",
+      "alt": "Unit #5",
+      "link": null
+    },
+    {
+      "id": 28,
+      "title": "",
+      "subtitle": "",
+      "description": "",
+      "mediaType": "mp3",
+      "mediaUrl": "audio/segundo/unid(5)/2u5w1a9.mp3",
+      "thumbnail": "img/audio.png",
+      "alt": "",
+      "link": null
+    },
+    {
+      "id": 29,
+      "title": "",
+      "subtitle": "",
+      "description": "L.1. Understand simple questions which directly concern them such as their name and where they are from.",
+      "mediaType": "image",
+      "mediaUrl": "",
+      "thumbnail": "",
+      "alt": "",
+      "link": null
+    },
+    {
+      "id": 30,
+      "title": "",
+      "subtitle": "",
+      "description": "",
+      "mediaType": "mp3",
+      "mediaUrl": "audio/segundo/unid(5)/2u5w2a10.mp3",
+      "thumbnail": "img/audio.png",
+      "alt": "",
+      "link": null
+    },
+    {
+      "id": 31,
+      "title": "",
+      "subtitle": "",
+      "description": "L.2. Recognize and understand the words for people around them (e.g., firefighter, shop owner, doctor).",
+      "mediaType": "image",
+      "mediaUrl": "",
+      "thumbnail": "",
+      "alt": "",
+      "link": null
+    },
+    {
+      "id": 32,
+      "title": "",
+      "subtitle": "",
+      "description": "",
+      "mediaType": "pdf",
+      "mediaUrl": "audio/segundo/unid(6)/unit6_dialogs.pdf",
+      "thumbnail": "img/img_documento.png",
+      "alt": "",
+      "link": null
+    },
+    {
+      "id": 33,
+      "title": "Unit #6",
+      "subtitle": "PDF",
+      "description": "Unit 6 Dialogs",
+      "mediaType": "image",
+      "mediaUrl": "",
+      "thumbnail": "",
+      "alt": "Unit #6",
+      "link": null
+    },
+    {
+      "id": 34,
+      "title": "",
+      "subtitle": "",
+      "description": "",
+      "mediaType": "mp3",
+      "mediaUrl": "audio/segundo/unid(6)/2u6w1a11.mp3",
+      "thumbnail": "img/audio.png",
+      "alt": "",
+      "link": null
+    },
+    {
+      "id": 35,
+      "title": "",
+      "subtitle": "",
+      "description": "L.1. Recognize spoken words similar to the languages with which they are familiar (e.g., ball,music).",
+      "mediaType": "image",
+      "mediaUrl": "",
+      "thumbnail": "",
+      "alt": "",
+      "link": null
+    },
+    {
+      "id": 36,
+      "title": "",
+      "subtitle": "",
+      "description": "",
+      "mediaType": "mp3",
+      "mediaUrl": "audio/segundo/unid(6)/2u6 w2a12.mp3",
+      "thumbnail": "img/audio.png",
+      "alt": "",
+      "link": null
+    },
+    {
+      "id": 37,
+      "title": "",
+      "subtitle": "",
+      "description": "L.3. Understand words, names, and numbers previously learned when heard in a short,simple recording delivered at a slow pace.",
+      "mediaType": "image",
+      "mediaUrl": "",
+      "thumbnail": "",
+      "alt": "",
+      "link": null
+    },
+    {
+      "id": 38,
+      "title": "",
+      "subtitle": "",
+      "description": "",
+      "mediaType": "mp3",
+      "mediaUrl": "audio/segundo/unid(6)/2u6w4a12.mp3",
+      "thumbnail": "img/audio.png",
+      "alt": "",
+      "link": null
+    },
+    {
+      "id": 39,
+      "title": "",
+      "subtitle": "Second",
+      "description": "L.2. Understand simple instructions, such as «turn left», «turn right», or «turn off» when expressed slowly and clearly, possibly with accompanying gestures and pictures.",
+      "mediaType": "image",
+      "mediaUrl": "",
+      "thumbnail": "",
+      "alt": "",
+      "link": null
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "id": "index",
+  "filename": "index.html",
+  "title": "Sitio Primaria",
+  "heading": "Primary",
+  "subtitle": "",
+  "intro": "",
+  "modalTitle": "First",
+  "downloadGuides": [],
+  "carouselSlides": [
+    {
+      "src": "img/carrusel/carrusel1.jpg",
+      "alt": "First slide"
+    },
+    {
+      "src": "img/carrusel/carrusel2.jpg",
+      "alt": "Second slide"
+    },
+    {
+      "src": "img/carrusel/carrusel3.jpg",
+      "alt": "Third slide"
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "title": "Tip 1",
+      "subtitle": "",
+      "description": "",
+      "mediaType": "pdf",
+      "mediaUrl": "Tips/ABCmouse_Aprende_Tips for teachers.pdf",
+      "thumbnail": "Tips/img1.jpg",
+      "alt": "Tip 1",
+      "link": null
+    },
+    {
+      "id": 2,
+      "title": "Tip 2",
+      "subtitle": "",
+      "description": "",
+      "mediaType": "image",
+      "mediaUrl": "",
+      "thumbnail": "Tips/img2.jpg",
+      "alt": "Tip 2",
+      "link": null
+    },
+    {
+      "id": 3,
+      "title": "Tip 3",
+      "subtitle": "",
+      "description": "",
+      "mediaType": "image",
+      "mediaUrl": "",
+      "thumbnail": "img/tip3.jpg",
+      "alt": "Tip 3",
+      "link": null
+    },
+    {
+      "id": 4,
+      "title": "Tip 4",
+      "subtitle": "",
+      "description": "",
+      "mediaType": "image",
+      "mediaUrl": "",
+      "thumbnail": "Tips/tip4.jpg",
+      "alt": "Tip 4",
+      "link": null
+    },
+    {
+      "id": 5,
+      "title": "Tip 5",
+      "subtitle": "",
+      "description": "",
+      "mediaType": "image",
+      "mediaUrl": "",
+      "thumbnail": "Tips/tip5.jpg",
+      "alt": "Tip 5",
+      "link": null
+    }
+  ]
+}

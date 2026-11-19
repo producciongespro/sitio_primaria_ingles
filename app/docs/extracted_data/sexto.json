@@ -1,0 +1,243 @@
+{
+  "file": "sexto.html",
+  "title": "Sitio Primaria",
+  "pageHeading": "Primary",
+  "intro": "The Teacher`s Guide for sixth grade is a pedagogical resource that orients and enriches the planning process and the implementation of the English Curriculum. It includes videos, activities and resources to develop each of the units of the Sixth grade Program.",
+  "cardsCount": 18,
+  "cards": [
+    {
+      "index": 1,
+      "ruta": "data/sexto/guia_sextoUnit1.pdf",
+      "tipo": "pdf",
+      "src": "img/unit1_sexto.png",
+      "alt": "",
+      "title": "",
+      "subtitle": "",
+      "text": "",
+      "link": {
+        "href": "data/sexto/guia_sextoUnit1.docx",
+        "text": "Click here to download Word Document"
+      }
+    },
+    {
+      "index": 2,
+      "ruta": "data/sexto/guia_sextoUnit2.pdf",
+      "tipo": "pdf",
+      "src": "img/unit2_sexto.jpg",
+      "alt": "",
+      "title": "",
+      "subtitle": "",
+      "text": "",
+      "link": {
+        "href": "data/sexto/guia_sextoUnit2.docx",
+        "text": "Click here to download Word Document"
+      }
+    },
+    {
+      "index": 3,
+      "ruta": "data/sexto/guia_sextoUnit3.pdf",
+      "tipo": "pdf",
+      "src": "img/unit3_sexto.jpg",
+      "alt": "",
+      "title": "",
+      "subtitle": "",
+      "text": "",
+      "link": {
+        "href": "data/sexto/guia_sextoUnit3.docx",
+        "text": "Click here to download Word Document"
+      }
+    },
+    {
+      "index": 4,
+      "ruta": "data/sexto/guia_sextoUnit4.pdf",
+      "tipo": "pdf",
+      "src": "img/unit4_sexto.jpg",
+      "alt": "",
+      "title": "",
+      "subtitle": "",
+      "text": "",
+      "link": {
+        "href": "data/sexto/guia_sextoUnit4.docx",
+        "text": "Click here to download Word Document"
+      }
+    },
+    {
+      "index": 5,
+      "ruta": "data/sexto/dreams_come_true.mp3",
+      "tipo": "mp3",
+      "src": "img/audio.png",
+      "alt": "",
+      "title": "",
+      "subtitle": "",
+      "text": "",
+      "link": null
+    },
+    {
+      "index": 6,
+      "ruta": "",
+      "tipo": "",
+      "src": "",
+      "alt": "",
+      "title": "",
+      "subtitle": "",
+      "text": "Unit 1. Dreams Come True",
+      "link": null
+    },
+    {
+      "index": 7,
+      "ruta": "data/sexto/spider_man_audio.mp3",
+      "tipo": "mp3",
+      "src": "img/audio.png",
+      "alt": "",
+      "title": "",
+      "subtitle": "",
+      "text": "",
+      "link": null
+    },
+    {
+      "index": 8,
+      "ruta": "",
+      "tipo": "",
+      "src": "",
+      "alt": "",
+      "title": "",
+      "subtitle": "",
+      "text": "Unit 1. Spider Man",
+      "link": null
+    },
+    {
+      "index": 9,
+      "ruta": "data/sexto/peferences_tech_devices.mp3",
+      "tipo": "mp3",
+      "src": "img/audio.png",
+      "alt": "",
+      "title": "",
+      "subtitle": "",
+      "text": "",
+      "link": null
+    },
+    {
+      "index": 10,
+      "ruta": "",
+      "tipo": "",
+      "src": "",
+      "alt": "",
+      "title": "",
+      "subtitle": "",
+      "text": "Unit 2.Peferences: Technological Devices",
+      "link": null
+    },
+    {
+      "index": 11,
+      "ruta": "",
+      "tipo": "",
+      "src": "data/sexto/phonemic_review.png",
+      "alt": "",
+      "title": "",
+      "subtitle": "",
+      "text": "",
+      "link": {
+        "href": "data/sexto/6grade_unit1_week2_review.pptx",
+        "text": "Click here to download the Power Point"
+      }
+    },
+    {
+      "index": 12,
+      "ruta": "",
+      "tipo": "",
+      "src": "data/sexto/who_is_behind.png",
+      "alt": "",
+      "title": "",
+      "subtitle": "",
+      "text": "",
+      "link": {
+        "href": "data/sexto/hidden_picture_game.pptx",
+        "text": "Click here to download the Power Point"
+      }
+    },
+    {
+      "index": 13,
+      "ruta": "",
+      "tipo": "",
+      "src": "data/other/ppt/Unit3Sexto/unit3_env.png",
+      "alt": "",
+      "title": "",
+      "subtitle": "",
+      "text": "",
+      "link": {
+        "href": "data/other/ppt\\Unit3Sexto/week 1 Unit 3 Sixth Grade.pptx",
+        "text": "Click here to download the Power Point"
+      }
+    },
+    {
+      "index": 14,
+      "ruta": "",
+      "tipo": "",
+      "src": "data/other/ppt/Unit3Sexto/unit3_week2.jpg",
+      "alt": "",
+      "title": "",
+      "subtitle": "",
+      "text": "",
+      "link": {
+        "href": "data/other/ppt/Unit3Sexto/UNIT 3_WEEK 2.pptx",
+        "text": "Click here to download the Power Point"
+      }
+    },
+    {
+      "index": 15,
+      "ruta": "",
+      "tipo": "",
+      "src": "data/other/ppt/Unit3Sexto/week3Activation.jpg",
+      "alt": "",
+      "title": "",
+      "subtitle": "",
+      "text": "",
+      "link": {
+        "href": "data/other/ppt/Unit3Sexto/Week 3 Activation of prior knowlwdge.pptx",
+        "text": "Click here to download the Power Point"
+      }
+    },
+    {
+      "index": 16,
+      "ruta": "",
+      "tipo": "",
+      "src": "data/other/ppt/Unit3Sexto/week3Spoken.jpg",
+      "alt": "",
+      "title": "",
+      "subtitle": "",
+      "text": "",
+      "link": {
+        "href": "data/other/ppt/Unit3Sexto/Week 3 Spoken production TA.pptx",
+        "text": "Click here to download the Power Point"
+      }
+    },
+    {
+      "index": 17,
+      "ruta": "",
+      "tipo": "",
+      "src": "data/other/ppt/Unit3Sexto/whatcan....jpg",
+      "alt": "",
+      "title": "",
+      "subtitle": "",
+      "text": "",
+      "link": {
+        "href": "data/other/ppt/Unit3Sexto/What can I do about litter.pptx",
+        "text": "Click here to download the Power Point"
+      }
+    },
+    {
+      "index": 18,
+      "ruta": "",
+      "tipo": "",
+      "src": "data/other/ppt/Unit3Sexto/pptAffix.jpg",
+      "alt": "",
+      "title": "",
+      "subtitle": "Sixth",
+      "text": "",
+      "link": {
+        "href": "data/other/ppt/Unit3Sexto/PPT AFFIX WEEK 4.pptx",
+        "text": "Click here to download the Power Point"
+      }
+    }
+  ]
+}

@@ -1,0 +1,253 @@
+{
+  "id": "quinto",
+  "filename": "quinto.html",
+  "title": "Sitio Primaria",
+  "heading": "Primary",
+  "subtitle": "Fifth 5°",
+  "intro": "The Teacher´s Guide for fifth grade is a pedagogical resource that orients and enriches the planning process and the implementation of the new English Curriculum. It includes videos, activities and resources to develop each of the units of the Fifth grade Program.",
+  "modalTitle": "Fifth",
+  "downloadGuides": [
+    {
+      "href": "data/quinto/unit1.docx",
+      "label": "Click here to download Word Document"
+    },
+    {
+      "href": "data/quinto/unit2.docx",
+      "label": "Click here to download Word Document"
+    },
+    {
+      "href": "data/quinto/unit3.docx",
+      "label": "Click here to download Word Document"
+    },
+    {
+      "href": "data/quinto/unit4.docx",
+      "label": "Click here to download Word Document"
+    },
+    {
+      "href": "data/quinto/unit5.docx",
+      "label": "Click here to download Word Document"
+    },
+    {
+      "href": "data/quinto/unit6.docx",
+      "label": "Click here to download Word Document"
+    },
+    {
+      "href": "data/quinto/material_week3Unit2/Activation of prior knowledge L3.pptx",
+      "label": "Activation of prior knowledge L3"
+    },
+    {
+      "href": "data/quinto/material_week3Unit2/Pre task lesson R3.pptx",
+      "label": "Pre task lesson R3"
+    },
+    {
+      "href": "data/quinto/material_week3Unit2/Pre task W1.pptx",
+      "label": "Pre task W1"
+    },
+    {
+      "href": "data/quinto/material_week3Unit2/Task assessment R3.pdf",
+      "label": "Task assessment R3"
+    },
+    {
+      "href": "data/quinto/material_week3Unit2/Task Asssesment SP1.pdf",
+      "label": "Task assessment SP1"
+    },
+    {
+      "href": "data/quinto/material_week3Unit2/Task completion R.PA.1.pptx",
+      "label": "Task completion R.PA.1"
+    },
+    {
+      "href": "data/quinto/material_week3Unit2/Task completion SP1.pdf",
+      "label": "Task completion SP1"
+    },
+    {
+      "href": "data/quinto/material_week3Unit2/Task rehearsal R3.pptx",
+      "label": "Task reherarsal R3"
+    },
+    {
+      "href": "data/quinto/material_week3Unit2/Third week planning.docx",
+      "label": "Third week planning"
+    },
+    {
+      "href": "data/quinto/material_week3Unit2/Task-rehearsal W1.docx",
+      "label": "Task-rehearsal W1"
+    }
+  ],
+  "carouselSlides": [],
+  "cards": [
+    {
+      "id": 1,
+      "title": "",
+      "subtitle": "",
+      "description": "",
+      "mediaType": "pdf",
+      "mediaUrl": "data/quinto/unit1.pdf",
+      "thumbnail": "img/unit1quinto.jpg",
+      "alt": "",
+      "link": {
+        "href": "data/quinto/unit1.docx",
+        "label": "Click here to download Word Document"
+      }
+    },
+    {
+      "id": 2,
+      "title": "",
+      "subtitle": "",
+      "description": "",
+      "mediaType": "pdf",
+      "mediaUrl": "data/quinto/unit2.pdf",
+      "thumbnail": "img/img5u2.jpg",
+      "alt": "",
+      "link": {
+        "href": "data/quinto/unit2.docx",
+        "label": "Click here to download Word Document"
+      }
+    },
+    {
+      "id": 3,
+      "title": "",
+      "subtitle": "",
+      "description": "",
+      "mediaType": "pdf",
+      "mediaUrl": "data/quinto/unit3.pdf",
+      "thumbnail": "img/unit3quinto.jpg",
+      "alt": "",
+      "link": {
+        "href": "data/quinto/unit3.docx",
+        "label": "Click here to download Word Document"
+      }
+    },
+    {
+      "id": 4,
+      "title": "",
+      "subtitle": "",
+      "description": "",
+      "mediaType": "pdf",
+      "mediaUrl": "data/quinto/unit4.pdf",
+      "thumbnail": "img/img5u4.jpg",
+      "alt": "",
+      "link": {
+        "href": "data/quinto/unit4.docx",
+        "label": "Click here to download Word Document"
+      }
+    },
+    {
+      "id": 5,
+      "title": "",
+      "subtitle": "",
+      "description": "",
+      "mediaType": "pdf",
+      "mediaUrl": "data/quinto/unit5.pdf",
+      "thumbnail": "img/img5u5.jpg",
+      "alt": "",
+      "link": {
+        "href": "data/quinto/unit5.docx",
+        "label": "Click here to download Word Document"
+      }
+    },
+    {
+      "id": 6,
+      "title": "",
+      "subtitle": "",
+      "description": "",
+      "mediaType": "pdf",
+      "mediaUrl": "data/quinto/unit6.pdf",
+      "thumbnail": "img/imgU6quinto.jpg",
+      "alt": "",
+      "link": {
+        "href": "data/quinto/unit6.docx",
+        "label": "Click here to download Word Document"
+      }
+    },
+    {
+      "id": 7,
+      "title": "",
+      "subtitle": "",
+      "description": "",
+      "mediaType": "mp3",
+      "mediaUrl": "audio/Quinto/1.mp3",
+      "thumbnail": "img/audio.png",
+      "alt": "",
+      "link": null
+    },
+    {
+      "id": 8,
+      "title": "",
+      "subtitle": "",
+      "description": "Unit 3. My favorite Electronic devices",
+      "mediaType": "image",
+      "mediaUrl": "",
+      "thumbnail": "",
+      "alt": "",
+      "link": null
+    },
+    {
+      "id": 9,
+      "title": "",
+      "subtitle": "",
+      "description": "",
+      "mediaType": "mp3",
+      "mediaUrl": "audio/Quinto/2.mp3",
+      "thumbnail": "img/audio.png",
+      "alt": "",
+      "link": null
+    },
+    {
+      "id": 10,
+      "title": "",
+      "subtitle": "",
+      "description": "Unit 3. Electronic´s Store Phone Call",
+      "mediaType": "image",
+      "mediaUrl": "",
+      "thumbnail": "",
+      "alt": "",
+      "link": null
+    },
+    {
+      "id": 11,
+      "title": "",
+      "subtitle": "",
+      "description": "",
+      "mediaType": "mp3",
+      "mediaUrl": "audio/Quinto/3.m4a",
+      "thumbnail": "img/audio.png",
+      "alt": "",
+      "link": null
+    },
+    {
+      "id": 12,
+      "title": "",
+      "subtitle": "",
+      "description": "Unit 3. Looking for an Electronic Device",
+      "mediaType": "image",
+      "mediaUrl": "",
+      "thumbnail": "",
+      "alt": "",
+      "link": null
+    },
+    {
+      "id": 13,
+      "title": "",
+      "subtitle": "",
+      "description": "",
+      "mediaType": "mp3",
+      "mediaUrl": "audio/Quinto/4.m4a",
+      "thumbnail": "img/audio.png",
+      "alt": "",
+      "link": null
+    },
+    {
+      "id": 14,
+      "title": "",
+      "subtitle": "Fifth",
+      "description": "Unit 3. Comparing Devices",
+      "mediaType": "image",
+      "mediaUrl": "",
+      "thumbnail": "",
+      "alt": "",
+      "link": {
+        "href": "data/quinto/material_week3Unit2/Activation of prior knowledge L3.pptx",
+        "label": "Activation of prior knowledge L3"
+      }
+    }
+  ]
+}

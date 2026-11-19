@@ -1,0 +1,156 @@
+{
+  "id": "ABCmouse",
+  "filename": "ABCmouse.html",
+  "title": "Sitio Primaria",
+  "heading": "ABCmouse",
+  "subtitle": "Hello teachers! Exciting news!",
+  "intro": "Explore this informative webpage for amazing resources to integrate ABCmouse Aprende Inglés in your classroom. Here you will find a complete guide for English teachers, sample lesson plans, certificates, and much more. It's all specially designed to help you teach better and make learning super fun! Take a tour through the website and discover valuable resources for your classes.",
+  "modalTitle": "More resources",
+  "downloadGuides": [],
+  "carouselSlides": [],
+  "cards": [
+    {
+      "id": 1,
+      "title": "Understanding the App",
+      "subtitle": "",
+      "description": "",
+      "mediaType": "pdf",
+      "mediaUrl": "data/ABCmouse/understanding_the_app.docx",
+      "thumbnail": "",
+      "alt": "Understanding the App",
+      "link": null
+    },
+    {
+      "id": 2,
+      "title": "",
+      "subtitle": "",
+      "description": "",
+      "mediaType": "pdf",
+      "mediaUrl": "data/ABCmouse/Aprende_Teacher Resource Alignment.xlsx",
+      "thumbnail": "data/ABCmouse/img_Alig.jpg",
+      "alt": "",
+      "link": null
+    },
+    {
+      "id": 3,
+      "title": "Teacher Resource Alignment",
+      "subtitle": "",
+      "description": "",
+      "mediaType": "image",
+      "mediaUrl": "",
+      "thumbnail": "",
+      "alt": "Teacher Resource Alignment",
+      "link": null
+    },
+    {
+      "id": 4,
+      "title": "",
+      "subtitle": "",
+      "description": "",
+      "mediaType": "pdf",
+      "mediaUrl": "data/ABCmouse/lessonplan_1grade_examples.pdf",
+      "thumbnail": "data/ABCmouse/img_lesson_1grade.jpg",
+      "alt": "",
+      "link": null
+    },
+    {
+      "id": 5,
+      "title": "Sample Lesson First Grade",
+      "subtitle": "",
+      "description": "",
+      "mediaType": "image",
+      "mediaUrl": "",
+      "thumbnail": "",
+      "alt": "Sample Lesson First Grade",
+      "link": null
+    },
+    {
+      "id": 6,
+      "title": "",
+      "subtitle": "",
+      "description": "",
+      "mediaType": "pdf",
+      "mediaUrl": "img/aprende_certificate_SP.pdf",
+      "thumbnail": "img/cert_esp.jpg",
+      "alt": "",
+      "link": null
+    },
+    {
+      "id": 7,
+      "title": "Certificado en Español",
+      "subtitle": "",
+      "description": "",
+      "mediaType": "image",
+      "mediaUrl": "",
+      "thumbnail": "",
+      "alt": "Certificado en Español",
+      "link": null
+    },
+    {
+      "id": 8,
+      "title": "",
+      "subtitle": "",
+      "description": "",
+      "mediaType": "pdf",
+      "mediaUrl": "img/aprende_certificate_en.pdf",
+      "thumbnail": "img/studentscertificate2.jpg",
+      "alt": "",
+      "link": null
+    },
+    {
+      "id": 9,
+      "title": "Student´s Certificate in English",
+      "subtitle": "",
+      "description": "",
+      "mediaType": "image",
+      "mediaUrl": "",
+      "thumbnail": "",
+      "alt": "Student´s Certificate in English",
+      "link": null
+    },
+    {
+      "id": 10,
+      "title": "",
+      "subtitle": "",
+      "description": "",
+      "mediaType": "pdf",
+      "mediaUrl": "data/ABCmouse/Integrating.pdf",
+      "thumbnail": "data/ABCmouse/integrating.jpg",
+      "alt": "",
+      "link": null
+    },
+    {
+      "id": 11,
+      "title": "Integrating ABCmouse Aprende Inglés: A Guide for MEP Elementary English Teachers- “Enhancing Language Acquisition through Technology”",
+      "subtitle": "",
+      "description": "",
+      "mediaType": "image",
+      "mediaUrl": "",
+      "thumbnail": "",
+      "alt": "Integrating ABCmouse Aprende Inglés: A Guide for MEP Elementary English Teachers- “Enhancing Language Acquisition through Technology”",
+      "link": null
+    },
+    {
+      "id": 12,
+      "title": "",
+      "subtitle": "",
+      "description": "",
+      "mediaType": "pdf",
+      "mediaUrl": "data/ABCmouse/Lesson Plan_ Unit _Week4_Integrated Mini Project.pdf",
+      "thumbnail": "img/imglessonU6W4.jpg",
+      "alt": "",
+      "link": null
+    },
+    {
+      "id": 13,
+      "title": "Lesson Plan Unit 6 Week 4 and Integrated Miniproject",
+      "subtitle": "More resources",
+      "description": "",
+      "mediaType": "image",
+      "mediaUrl": "",
+      "thumbnail": "",
+      "alt": "Lesson Plan Unit 6 Week 4 and Integrated Miniproject",
+      "link": null
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "creditos",
+  "filename": "creditos.html",
+  "title": "Sitio Primaria",
+  "heading": "Créditos",
+  "images": [
+    {
+      "src": "img/credit.png",
+      "alt": "Créditos Institucionales Parte 1"
+    },
+    {
+      "src": "img/credit2.png",
+      "alt": "Créditos Institucionales Parte 2"
+    }
+  ]
+}

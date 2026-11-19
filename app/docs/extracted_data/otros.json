@@ -1,0 +1,273 @@
+{
+  "file": "otros.html",
+  "title": "Sitio Primaria",
+  "pageHeading": "More resources",
+  "intro": "",
+  "cardsCount": 24,
+  "cards": [
+    {
+      "index": 1,
+      "ruta": "https://www.youtube.com/embed/YJiizbdjrsM",
+      "tipo": "youtube",
+      "src": "img/portadas-videos/video1.jpg",
+      "alt": "",
+      "title": "",
+      "subtitle": "",
+      "text": "",
+      "link": null
+    },
+    {
+      "index": 2,
+      "ruta": "",
+      "tipo": "",
+      "src": "",
+      "alt": "",
+      "title": "CR National Team Spreads the Word English Is Important!",
+      "subtitle": "",
+      "text": "Members of the Costa Rica National Team had some encouraging words for the champions who made it to the final level of competition at the first National English Festival, November 16-18, 2015 at EARTH University.",
+      "link": null
+    },
+    {
+      "index": 3,
+      "ruta": "https://www.youtube.com/embed/tkhYrO7UxFU",
+      "tipo": "youtube",
+      "src": "img/portadas-videos/video2.jpg",
+      "alt": "",
+      "title": "",
+      "subtitle": "",
+      "text": "",
+      "link": null
+    },
+    {
+      "index": 4,
+      "ruta": "",
+      "tipo": "",
+      "src": "",
+      "alt": "",
+      "title": "Transforming the English Classroom through Action –Oriented Teaching and Learning",
+      "subtitle": "",
+      "text": "An example of class based on the Costa Ricans New English Curriculum",
+      "link": null
+    },
+    {
+      "index": 5,
+      "ruta": "https://www.youtube.com/embed/6yHLBpyBfs8",
+      "tipo": "youtube",
+      "src": "img/portadas-videos/video3.jpg",
+      "alt": "",
+      "title": "",
+      "subtitle": "",
+      "text": "",
+      "link": null
+    },
+    {
+      "index": 6,
+      "ruta": "",
+      "tipo": "",
+      "src": "",
+      "alt": "",
+      "title": "How are you?",
+      "subtitle": "",
+      "text": "Video created with the collaboration of the language students of the UCR and MEP.",
+      "link": null
+    },
+    {
+      "index": 7,
+      "ruta": "https://www.youtube.com/embed/Lq0SsBQw6Ms",
+      "tipo": "youtube",
+      "src": "img/portadas-videos/video4.jpg",
+      "alt": "",
+      "title": "",
+      "subtitle": "",
+      "text": "",
+      "link": null
+    },
+    {
+      "index": 8,
+      "ruta": "",
+      "tipo": "",
+      "src": "",
+      "alt": "",
+      "title": "Phonemic Awareness",
+      "subtitle": "",
+      "text": "Activities for developing phonemic awareness",
+      "link": null
+    },
+    {
+      "index": 9,
+      "ruta": "https://www.youtube.com/embed/zxtG3Y1nrkY ",
+      "tipo": "youtube",
+      "src": "img/portadas-videos/video5.jpg",
+      "alt": "",
+      "title": "",
+      "subtitle": "",
+      "text": "",
+      "link": null
+    },
+    {
+      "index": 10,
+      "ruta": "",
+      "tipo": "",
+      "src": "",
+      "alt": "",
+      "title": "El video Tutorial:  Phonemic awareness.",
+      "subtitle": "",
+      "text": "This video presents the English teacher Erick Ceciliano Matamoros doing a demonstration of phonemic awareness lesson for second grade.",
+      "link": null
+    },
+    {
+      "index": 11,
+      "ruta": "https://www.youtube.com/embed/tkhYrO7UxFU",
+      "tipo": "youtube",
+      "src": "img/portadas-videos/video6.jpg",
+      "alt": "",
+      "title": "",
+      "subtitle": "",
+      "text": "",
+      "link": null
+    },
+    {
+      "index": 12,
+      "ruta": "",
+      "tipo": "",
+      "src": "",
+      "alt": "",
+      "title": "Transforming the English Classroom through Action –Oriented Teaching and Learning",
+      "subtitle": "",
+      "text": "This tutorial video presents the English teacher Jonathan Elizondo sharing a successful experience with first grade called Mini Books.",
+      "link": null
+    },
+    {
+      "index": 13,
+      "ruta": "https://www.youtube.com/embed/LErhOCSaGV0",
+      "tipo": "youtube",
+      "src": "img/portadas-videos/video7.jpg",
+      "alt": "",
+      "title": "",
+      "subtitle": "",
+      "text": "",
+      "link": null
+    },
+    {
+      "index": 14,
+      "ruta": "",
+      "tipo": "",
+      "src": "",
+      "alt": "",
+      "title": "Global Steam Classroom Initiative:  Nueva Laboratorio Emma Gamboa School",
+      "subtitle": "",
+      "text": "Implementation of Global Steam Classroom Initiative between Nueva Laboratorio Emma Gamboa School and Centreville School Supported on the Whole Language Philosophy through 2016-2017.",
+      "link": null
+    },
+    {
+      "index": 15,
+      "ruta": "https://www.youtube.com/embed/VvfJdg-Nj-g",
+      "tipo": "youtube",
+      "src": "img/portadas-videos/video8.jpg",
+      "alt": "",
+      "title": "",
+      "subtitle": "",
+      "text": "",
+      "link": null
+    },
+    {
+      "index": 16,
+      "ruta": "",
+      "tipo": "",
+      "src": "",
+      "alt": "",
+      "title": "A Dice Game for locating objects in the classroom",
+      "subtitle": "",
+      "text": "This video demonstrates the stages of a mini-project intended to integrate language skills while students are playing with dice.",
+      "link": null
+    },
+    {
+      "index": 17,
+      "ruta": "https://www.youtube.com/embed/nlNhVWeFTjc",
+      "tipo": "youtube",
+      "src": "img/portadas-videos/video9.jpg",
+      "alt": "",
+      "title": "",
+      "subtitle": "",
+      "text": "",
+      "link": null
+    },
+    {
+      "index": 18,
+      "ruta": "",
+      "tipo": "",
+      "src": "",
+      "alt": "",
+      "title": "Watch my family Mini projects video",
+      "subtitle": "",
+      "text": "This video highlights an innovative way to introduce mobile phones with videotaping as a way to create an authentic communicative task. The active involvement of the student´s family and the school community are positive aspects of this mini-project.",
+      "link": null
+    },
+    {
+      "index": 19,
+      "ruta": "https://www.youtube.com/embed/sNMp3uFWMzM",
+      "tipo": "youtube",
+      "src": "img/portadas-videos/video10.jpg",
+      "alt": "",
+      "title": "",
+      "subtitle": "",
+      "text": "",
+      "link": null
+    },
+    {
+      "index": 20,
+      "ruta": "",
+      "tipo": "",
+      "src": "",
+      "alt": "",
+      "title": "Connecting classrooms through video calls",
+      "subtitle": "",
+      "text": "This mini-project consists of connecting two classroom through video calls so that two group of students in first grade can interact in English in more natural scenarios using this technology.",
+      "link": null
+    },
+    {
+      "index": 21,
+      "ruta": "https://www.youtube.com/watch?v=U5Y0SjoyZmU&feature=youtu.be",
+      "tipo": "youtube",
+      "src": "img/portadas-videos/video101.jpg",
+      "alt": "",
+      "title": "",
+      "subtitle": "",
+      "text": "",
+      "link": null
+    },
+    {
+      "index": 22,
+      "ruta": "",
+      "tipo": "",
+      "src": "",
+      "alt": "",
+      "title": "Identifying the initial phoneme or sound /o/ in a word self-learning",
+      "subtitle": "",
+      "text": "In this video children learn to identify the initial sound /o/ in the words.",
+      "link": null
+    },
+    {
+      "index": 23,
+      "ruta": "https://www.youtube.com/watch?v=sGCYBhltN9I&feature=youtu.be",
+      "tipo": "youtube",
+      "src": "img/portadas-videos/video102.jpg",
+      "alt": "",
+      "title": "",
+      "subtitle": "",
+      "text": "",
+      "link": null
+    },
+    {
+      "index": 24,
+      "ruta": "",
+      "tipo": "",
+      "src": "",
+      "alt": "",
+      "title": "This is These are self-learning",
+      "subtitle": "More resources",
+      "text": "In this video children learn the use of words \"THIS IS\" and \"THESE ARE\"",
+      "link": null
+    }
+  ]
+}

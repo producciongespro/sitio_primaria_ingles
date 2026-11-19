@@ -1,0 +1,65 @@
+{
+  "file": "digital_modules.html",
+  "title": "Sitio Primaria",
+  "pageHeading": "Digital Learning Modules",
+  "intro": "Recurso Interactivo, multimedial para el uso de estudiantes de cuarto grado con la  guía del o la docente. Tiene como propósito desarrollar competencias tecnológicas para apoyar sus actividades de aprendizaje durante el desarrollo de las  competencias lingüísticas en el área de inglés, presentes en el Programa de Estudio.",
+  "cardsCount": 4,
+  "cards": [
+    {
+      "index": 1,
+      "ruta": "",
+      "tipo": "",
+      "src": "img/weatherwise.jpg",
+      "alt": "",
+      "title": "",
+      "subtitle": "",
+      "text": "",
+      "link": {
+        "href": "https://www.mep.go.cr/educatico/weather-wise",
+        "text": ""
+      }
+    },
+    {
+      "index": 2,
+      "ruta": "",
+      "tipo": "",
+      "src": "img/natural.jpg",
+      "alt": "",
+      "title": "",
+      "subtitle": "",
+      "text": "",
+      "link": {
+        "href": "https://www.mep.go.cr/educatico/natural-treasures",
+        "text": ""
+      }
+    },
+    {
+      "index": 3,
+      "ruta": "",
+      "tipo": "",
+      "src": "img/farm.png",
+      "alt": "",
+      "title": "",
+      "subtitle": "",
+      "text": "",
+      "link": {
+        "href": "https://www.mep.go.cr/educatico/farm-table",
+        "text": ""
+      }
+    },
+    {
+      "index": 4,
+      "ruta": "",
+      "tipo": "",
+      "src": "img/img_take_care.jpg",
+      "alt": "",
+      "title": "",
+      "subtitle": "",
+      "text": "",
+      "link": {
+        "href": "https://www.mep.go.cr/educatico/take-care",
+        "text": ""
+      }
+    }
+  ]
+}

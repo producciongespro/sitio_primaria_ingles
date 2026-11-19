@@ -1,0 +1,23 @@
+{
+  "id": "minibooks",
+  "filename": "minibooks.html",
+  "title": "Sitio Primaria",
+  "heading": "Minibooks",
+  "sections": [
+    {
+      "subtitle": "1°, 2°, 3° Grades",
+      "intro": "This is a series of 18 Mini books. Each chapter is based on the scenarios of the new English Curriculum for first cycle. It is aimed to promote enjoyment for reading in young children as well as the development of reading and listening skills mainly. Of course, these two skills can be combined with speaking and writing skills according with the goals the teacher is working with. The mini-books have colorful images to make the reading process more meaningful and attractive for children. Audios were created to provide a good pronunciation and intonation model as children are exposed to choral reading or self-reading. At the end of each mini-book, children will find an activity to check their understanding of the reading. There is also a worksheet where children solve another reading task. A sample lesson has been provided with the pedagogical mediation which includes the following steps: Pre-Teaching, Warm up, Activation of Prior Knowledge, Modeling, Clarifying, Pre-Task, Task Rehearsal, Task Completion, Task Assessment.",
+      "link": "https://www.mep.go.cr/educatico/english-mini-books-first-cycle",
+      "image": "img/img_minibooks.jpg",
+      "alt": "English Mini Books First Cycle"
+    },
+    {
+      "heading": "Family celebrations Minibooks",
+      "subtitle": "1°, 2°, 3° Grades",
+      "intro": "This booklet is about how a Costa Rican family celebrates different holidays. Its purpose is to develop reading, writing and oral skills, since the teacher can use it to carry out various activities with the students.",
+      "link": "https://www.mep.go.cr/educatico/family-celebrations-costa-rica-minibook",
+      "image": "img/family.png",
+      "alt": "Family Celebrations Minibook"
+    }
+  ]
+}

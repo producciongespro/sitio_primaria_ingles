@@ -1,0 +1,122 @@
+{
+  "id": "cuarto",
+  "filename": "cuarto.html",
+  "title": "Sitio Primaria",
+  "heading": "Primary",
+  "subtitle": "Fourth 4°",
+  "intro": "The Teacher´s Guide for fourth grade is a pedagogical resource that orients and enriches the planning process and the implementation of the new English Curriculum. It includes videos, activities and resources to develop each of the units of the Second grade Program.",
+  "modalTitle": "Fourth",
+  "downloadGuides": [
+    {
+      "href": "data/cuarto/unit1.docx",
+      "label": "Click here to download Word Document"
+    },
+    {
+      "href": "data/cuarto/unit2.docx",
+      "label": "Click here to download Word Document"
+    },
+    {
+      "href": "data/cuarto/unit3.docx",
+      "label": "Click here to download Word Document"
+    },
+    {
+      "href": "data/cuarto/unit4.docx",
+      "label": "Click here to download Word Document"
+    },
+    {
+      "href": "data/cuarto/unit5.docx",
+      "label": "Click here to download Word Document"
+    },
+    {
+      "href": "data/cuarto/unit6.docx",
+      "label": "Click here to download Word Document"
+    }
+  ],
+  "carouselSlides": [],
+  "cards": [
+    {
+      "id": 1,
+      "title": "",
+      "subtitle": "",
+      "description": "",
+      "mediaType": "pdf",
+      "mediaUrl": "data/cuarto/unit1.pdf",
+      "thumbnail": "img/imgunit1cuarto.png",
+      "alt": "",
+      "link": {
+        "href": "data/cuarto/unit1.docx",
+        "label": "Click here to download Word Document"
+      }
+    },
+    {
+      "id": 2,
+      "title": "",
+      "subtitle": "",
+      "description": "",
+      "mediaType": "pdf",
+      "mediaUrl": "data/cuarto/unit2.pdf",
+      "thumbnail": "img/imgunit2cuarto.png",
+      "alt": "",
+      "link": {
+        "href": "data/cuarto/unit2.docx",
+        "label": "Click here to download Word Document"
+      }
+    },
+    {
+      "id": 3,
+      "title": "",
+      "subtitle": "",
+      "description": "",
+      "mediaType": "pdf",
+      "mediaUrl": "data/cuarto/unit3.pdf",
+      "thumbnail": "img/imgunit3cuarto.png",
+      "alt": "",
+      "link": {
+        "href": "data/cuarto/unit3.docx",
+        "label": "Click here to download Word Document"
+      }
+    },
+    {
+      "id": 4,
+      "title": "",
+      "subtitle": "",
+      "description": "",
+      "mediaType": "pdf",
+      "mediaUrl": "data/cuarto/unit4.pdf",
+      "thumbnail": "img/unit4.jpg",
+      "alt": "",
+      "link": {
+        "href": "data/cuarto/unit4.docx",
+        "label": "Click here to download Word Document"
+      }
+    },
+    {
+      "id": 5,
+      "title": "",
+      "subtitle": "",
+      "description": "",
+      "mediaType": "pdf",
+      "mediaUrl": "data/cuarto/unit5.pdf",
+      "thumbnail": "img/unit5.png",
+      "alt": "",
+      "link": {
+        "href": "data/cuarto/unit5.docx",
+        "label": "Click here to download Word Document"
+      }
+    },
+    {
+      "id": 6,
+      "title": "",
+      "subtitle": "Fourth",
+      "description": "",
+      "mediaType": "pdf",
+      "mediaUrl": "data/cuarto/unit6.pdf",
+      "thumbnail": "img/unit6.png",
+      "alt": "",
+      "link": {
+        "href": "data/cuarto/unit6.docx",
+        "label": "Click here to download Word Document"
+      }
+    }
+  ]
+}

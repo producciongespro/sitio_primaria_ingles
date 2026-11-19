@@ -1,0 +1,41 @@
+{
+  "id": "contacto",
+  "filename": "contacto.html",
+  "title": "Sitio Primaria",
+  "heading": "Contacto",
+  "departments": [
+    {
+      "title": "Datos de contacto",
+      "role": "Asesores nacionales de Inglés",
+      "staff": [
+        "Ana Campos Centeno",
+        "Randall Centeno Hernandez"
+      ],
+      "emails": [
+        "ana.campos.centeno@mep.go.cr",
+        "randall.centeno.hernandez@mep.go.cr"
+      ],
+      "department": "Departamento de Primero y Segundo Ciclos, Dirección de Desarrollo Curricular.",
+      "location": "Edificio Raventós",
+      "phone": "2221-7685, ext: 2557"
+    },
+    {
+      "title": "Desarrolladores",
+      "role": "Asesores de Informática Educativa",
+      "staff": [
+        "Patricia Hernández Conejo",
+        "Ana Teresa Araya Salazar",
+        "Óscar Pérez Ramírez",
+        "Luis Chacón Campos"
+      ],
+      "additionalRole": "Asesora nacional de Inglés",
+      "additionalStaff": [
+        "Katherine Williams Jiménez"
+      ],
+      "emails": [
+        "gespro@mep.go.cr"
+      ],
+      "phone": "22553525, ext: 4622"
+    }
+  ]
+}

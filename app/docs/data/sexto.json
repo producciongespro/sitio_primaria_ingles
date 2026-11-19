@@ -1,0 +1,296 @@
+{
+  "id": "sexto",
+  "filename": "sexto.html",
+  "title": "Sitio Primaria",
+  "heading": "Primary",
+  "subtitle": "Sixth 6°",
+  "intro": "The Teacher`s Guide for sixth grade is a pedagogical resource that orients and enriches the planning process and the implementation of the English Curriculum. It includes videos, activities and resources to develop each of the units of the Sixth grade Program.",
+  "modalTitle": "Sixth",
+  "downloadGuides": [
+    {
+      "href": "data/sexto/guia_sextoUnit1.docx",
+      "label": "Click here to download Word Document"
+    },
+    {
+      "href": "data/sexto/guia_sextoUnit2.docx",
+      "label": "Click here to download Word Document"
+    },
+    {
+      "href": "data/sexto/guia_sextoUnit3.docx",
+      "label": "Click here to download Word Document"
+    },
+    {
+      "href": "data/sexto/guia_sextoUnit4.docx",
+      "label": "Click here to download Word Document"
+    },
+    {
+      "href": "data/sexto/6grade_unit1_week2_review.pptx",
+      "label": "Click here to download the Power Point"
+    },
+    {
+      "href": "data/sexto/hidden_picture_game.pptx",
+      "label": "Click here to download the Power Point"
+    },
+    {
+      "href": "data/other/ppt\\Unit3Sexto/week 1 Unit 3 Sixth Grade.pptx",
+      "label": "Click here to download the Power Point"
+    },
+    {
+      "href": "data/other/ppt/Unit3Sexto/UNIT 3_WEEK 2.pptx",
+      "label": "Click here to download the Power Point"
+    },
+    {
+      "href": "data/other/ppt/Unit3Sexto/Week 3 Activation of prior knowlwdge.pptx",
+      "label": "Click here to download the Power Point"
+    },
+    {
+      "href": "data/other/ppt/Unit3Sexto/Week 3 Spoken production TA.pptx",
+      "label": "Click here to download the Power Point"
+    },
+    {
+      "href": "data/other/ppt/Unit3Sexto/What can I do about litter.pptx",
+      "label": "Click here to download the Power Point"
+    },
+    {
+      "href": "data/other/ppt/Unit3Sexto/PPT AFFIX WEEK 4.pptx",
+      "label": "Click here to download the Power Point"
+    }
+  ],
+  "carouselSlides": [],
+  "cards": [
+    {
+      "id": 1,
+      "title": "",
+      "subtitle": "",
+      "description": "",
+      "mediaType": "pdf",
+      "mediaUrl": "data/sexto/guia_sextoUnit1.pdf",
+      "thumbnail": "img/unit1_sexto.png",
+      "alt": "",
+      "link": {
+        "href": "data/sexto/guia_sextoUnit1.docx",
+        "label": "Click here to download Word Document"
+      }
+    },
+    {
+      "id": 2,
+      "title": "",
+      "subtitle": "",
+      "description": "",
+      "mediaType": "pdf",
+      "mediaUrl": "data/sexto/guia_sextoUnit2.pdf",
+      "thumbnail": "img/unit2_sexto.jpg",
+      "alt": "",
+      "link": {
+        "href": "data/sexto/guia_sextoUnit2.docx",
+        "label": "Click here to download Word Document"
+      }
+    },
+    {
+      "id": 3,
+      "title": "",
+      "subtitle": "",
+      "description": "",
+      "mediaType": "pdf",
+      "mediaUrl": "data/sexto/guia_sextoUnit3.pdf",
+      "thumbnail": "img/unit3_sexto.jpg",
+      "alt": "",
+      "link": {
+        "href": "data/sexto/guia_sextoUnit3.docx",
+        "label": "Click here to download Word Document"
+      }
+    },
+    {
+      "id": 4,
+      "title": "",
+      "subtitle": "",
+      "description": "",
+      "mediaType": "pdf",
+      "mediaUrl": "data/sexto/guia_sextoUnit4.pdf",
+      "thumbnail": "img/unit4_sexto.jpg",
+      "alt": "",
+      "link": {
+        "href": "data/sexto/guia_sextoUnit4.docx",
+        "label": "Click here to download Word Document"
+      }
+    },
+    {
+      "id": 5,
+      "title": "",
+      "subtitle": "",
+      "description": "",
+      "mediaType": "mp3",
+      "mediaUrl": "data/sexto/dreams_come_true.mp3",
+      "thumbnail": "img/audio.png",
+      "alt": "",
+      "link": null
+    },
+    {
+      "id": 6,
+      "title": "",
+      "subtitle": "",
+      "description": "Unit 1. Dreams Come True",
+      "mediaType": "image",
+      "mediaUrl": "",
+      "thumbnail": "",
+      "alt": "",
+      "link": null
+    },
+    {
+      "id": 7,
+      "title": "",
+      "subtitle": "",
+      "description": "",
+      "mediaType": "mp3",
+      "mediaUrl": "data/sexto/spider_man_audio.mp3",
+      "thumbnail": "img/audio.png",
+      "alt": "",
+      "link": null
+    },
+    {
+      "id": 8,
+      "title": "",
+      "subtitle": "",
+      "description": "Unit 1. Spider Man",
+      "mediaType": "image",
+      "mediaUrl": "",
+      "thumbnail": "",
+      "alt": "",
+      "link": null
+    },
+    {
+      "id": 9,
+      "title": "",
+      "subtitle": "",
+      "description": "",
+      "mediaType": "mp3",
+      "mediaUrl": "data/sexto/peferences_tech_devices.mp3",
+      "thumbnail": "img/audio.png",
+      "alt": "",
+      "link": null
+    },
+    {
+      "id": 10,
+      "title": "",
+      "subtitle": "",
+      "description": "Unit 2.Peferences: Technological Devices",
+      "mediaType": "image",
+      "mediaUrl": "",
+      "thumbnail": "",
+      "alt": "",
+      "link": null
+    },
+    {
+      "id": 11,
+      "title": "",
+      "subtitle": "",
+      "description": "",
+      "mediaType": "image",
+      "mediaUrl": "",
+      "thumbnail": "data/sexto/phonemic_review.png",
+      "alt": "",
+      "link": {
+        "href": "data/sexto/6grade_unit1_week2_review.pptx",
+        "label": "Click here to download the Power Point"
+      }
+    },
+    {
+      "id": 12,
+      "title": "",
+      "subtitle": "",
+      "description": "",
+      "mediaType": "image",
+      "mediaUrl": "",
+      "thumbnail": "data/sexto/who_is_behind.png",
+      "alt": "",
+      "link": {
+        "href": "data/sexto/hidden_picture_game.pptx",
+        "label": "Click here to download the Power Point"
+      }
+    },
+    {
+      "id": 13,
+      "title": "",
+      "subtitle": "",
+      "description": "",
+      "mediaType": "image",
+      "mediaUrl": "",
+      "thumbnail": "data/other/ppt/Unit3Sexto/unit3_env.png",
+      "alt": "",
+      "link": {
+        "href": "data/other/ppt\\Unit3Sexto/week 1 Unit 3 Sixth Grade.pptx",
+        "label": "Click here to download the Power Point"
+      }
+    },
+    {
+      "id": 14,
+      "title": "",
+      "subtitle": "",
+      "description": "",
+      "mediaType": "image",
+      "mediaUrl": "",
+      "thumbnail": "data/other/ppt/Unit3Sexto/unit3_week2.jpg",
+      "alt": "",
+      "link": {
+        "href": "data/other/ppt/Unit3Sexto/UNIT 3_WEEK 2.pptx",
+        "label": "Click here to download the Power Point"
+      }
+    },
+    {
+      "id": 15,
+      "title": "",
+      "subtitle": "",
+      "description": "",
+      "mediaType": "image",
+      "mediaUrl": "",
+      "thumbnail": "data/other/ppt/Unit3Sexto/week3Activation.jpg",
+      "alt": "",
+      "link": {
+        "href": "data/other/ppt/Unit3Sexto/Week 3 Activation of prior knowlwdge.pptx",
+        "label": "Click here to download the Power Point"
+      }
+    },
+    {
+      "id": 16,
+      "title": "",
+      "subtitle": "",
+      "description": "",
+      "mediaType": "image",
+      "mediaUrl": "",
+      "thumbnail": "data/other/ppt/Unit3Sexto/week3Spoken.jpg",
+      "alt": "",
+      "link": {
+        "href": "data/other/ppt/Unit3Sexto/Week 3 Spoken production TA.pptx",
+        "label": "Click here to download the Power Point"
+      }
+    },
+    {
+      "id": 17,
+      "title": "",
+      "subtitle": "",
+      "description": "",
+      "mediaType": "image",
+      "mediaUrl": "",
+      "thumbnail": "data/other/ppt/Unit3Sexto/whatcan....jpg",
+      "alt": "",
+      "link": {
+        "href": "data/other/ppt/Unit3Sexto/What can I do about litter.pptx",
+        "label": "Click here to download the Power Point"
+      }
+    },
+    {
+      "id": 18,
+      "title": "",
+      "subtitle": "Sixth",
+      "description": "",
+      "mediaType": "image",
+      "mediaUrl": "",
+      "thumbnail": "data/other/ppt/Unit3Sexto/pptAffix.jpg",
+      "alt": "",
+      "link": {
+        "href": "data/other/ppt/Unit3Sexto/PPT AFFIX WEEK 4.pptx",
+        "label": "Click here to download the Power Point"
+      }
+    }
+  ]
+}

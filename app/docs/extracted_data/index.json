@@ -1,0 +1,119 @@
+{
+  "file": "index.html",
+  "title": "Sitio Primaria",
+  "pageHeading": "Primary",
+  "intro": "",
+  "cardsCount": 10,
+  "cards": [
+    {
+      "index": 1,
+      "ruta": "Tips/ABCmouse_Aprende_Tips for teachers.pdf",
+      "tipo": "pdf",
+      "src": "Tips/img1.jpg",
+      "alt": "",
+      "title": "",
+      "subtitle": "",
+      "text": "",
+      "link": null
+    },
+    {
+      "index": 2,
+      "ruta": "",
+      "tipo": "",
+      "src": "",
+      "alt": "",
+      "title": "Tip 1",
+      "subtitle": "",
+      "text": "",
+      "link": null
+    },
+    {
+      "index": 3,
+      "ruta": "",
+      "tipo": "",
+      "src": "Tips/img2.jpg",
+      "alt": "",
+      "title": "",
+      "subtitle": "",
+      "text": "",
+      "link": null
+    },
+    {
+      "index": 4,
+      "ruta": "",
+      "tipo": "",
+      "src": "",
+      "alt": "",
+      "title": "Tip 2",
+      "subtitle": "",
+      "text": "",
+      "link": null
+    },
+    {
+      "index": 5,
+      "ruta": "",
+      "tipo": "",
+      "src": "img/tip3.jpg",
+      "alt": "",
+      "title": "",
+      "subtitle": "",
+      "text": "",
+      "link": null
+    },
+    {
+      "index": 6,
+      "ruta": "",
+      "tipo": "",
+      "src": "",
+      "alt": "",
+      "title": "Tip 3",
+      "subtitle": "",
+      "text": "",
+      "link": null
+    },
+    {
+      "index": 7,
+      "ruta": "",
+      "tipo": "",
+      "src": "Tips/tip4.jpg",
+      "alt": "",
+      "title": "",
+      "subtitle": "",
+      "text": "",
+      "link": null
+    },
+    {
+      "index": 8,
+      "ruta": "",
+      "tipo": "",
+      "src": "",
+      "alt": "",
+      "title": "Tip 4",
+      "subtitle": "",
+      "text": "",
+      "link": null
+    },
+    {
+      "index": 9,
+      "ruta": "",
+      "tipo": "",
+      "src": "Tips/tip5.jpg",
+      "alt": "",
+      "title": "",
+      "subtitle": "",
+      "text": "",
+      "link": null
+    },
+    {
+      "index": 10,
+      "ruta": "",
+      "tipo": "",
+      "src": "",
+      "alt": "",
+      "title": "Tip 5",
+      "subtitle": "First",
+      "text": "",
+      "link": null
+    }
+  ]
+}

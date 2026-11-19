@@ -1,0 +1,93 @@
+{
+  "file": "cuarto.html",
+  "title": "Sitio Primaria",
+  "pageHeading": "Primary",
+  "intro": "The Teacher´s Guide for fourth grade is a pedagogical resource that orients and enriches the planning process and the implementation of the new English Curriculum. It includes videos, activities and resources to develop each of the units of the Second grade Program.",
+  "cardsCount": 6,
+  "cards": [
+    {
+      "index": 1,
+      "ruta": "data/cuarto/unit1.pdf",
+      "tipo": "pdf",
+      "src": "img/imgunit1cuarto.png",
+      "alt": "",
+      "title": "",
+      "subtitle": "",
+      "text": "",
+      "link": {
+        "href": "data/cuarto/unit1.docx",
+        "text": "Click here to download Word Document"
+      }
+    },
+    {
+      "index": 2,
+      "ruta": "data/cuarto/unit2.pdf",
+      "tipo": "pdf",
+      "src": "img/imgunit2cuarto.png",
+      "alt": "",
+      "title": "",
+      "subtitle": "",
+      "text": "",
+      "link": {
+        "href": "data/cuarto/unit2.docx",
+        "text": "Click here to download Word Document"
+      }
+    },
+    {
+      "index": 3,
+      "ruta": "data/cuarto/unit3.pdf",
+      "tipo": "pdf",
+      "src": "img/imgunit3cuarto.png",
+      "alt": "",
+      "title": "",
+      "subtitle": "",
+      "text": "",
+      "link": {
+        "href": "data/cuarto/unit3.docx",
+        "text": "Click here to download Word Document"
+      }
+    },
+    {
+      "index": 4,
+      "ruta": "data/cuarto/unit4.pdf",
+      "tipo": "pdf",
+      "src": "img/unit4.jpg",
+      "alt": "",
+      "title": "",
+      "subtitle": "",
+      "text": "",
+      "link": {
+        "href": "data/cuarto/unit4.docx",
+        "text": "Click here to download Word Document"
+      }
+    },
+    {
+      "index": 5,
+      "ruta": "data/cuarto/unit5.pdf",
+      "tipo": "pdf",
+      "src": "img/unit5.png",
+      "alt": "",
+      "title": "",
+      "subtitle": "",
+      "text": "",
+      "link": {
+        "href": "data/cuarto/unit5.docx",
+        "text": "Click here to download Word Document"
+      }
+    },
+    {
+      "index": 6,
+      "ruta": "data/cuarto/unit6.pdf",
+      "tipo": "pdf",
+      "src": "img/unit6.png",
+      "alt": "",
+      "title": "",
+      "subtitle": "Fourth",
+      "text": "",
+      "link": {
+        "href": "data/cuarto/unit6.docx",
+        "text": "Click here to download Word Document"
+      }
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "id": "digital_modules",
+  "filename": "digital_modules.html",
+  "title": "Sitio Primaria",
+  "heading": "Digital Learning Modules",
+  "subtitle": "Scenario: Weather wise",
+  "intro": "Recurso Interactivo, multimedial para el uso de estudiantes de cuarto grado con la guía del o la docente. Tiene como propósito desarrollar competencias tecnológicas para apoyar sus actividades de aprendizaje durante el desarrollo de las competencias lingüísticas en el área de inglés, presentes en el Programa de Estudio.",
+  "modalTitle": "",
+  "downloadGuides": [],
+  "carouselSlides": [],
+  "cards": [
+    {
+      "id": 1,
+      "title": "",
+      "subtitle": "",
+      "description": "",
+      "mediaType": "image",
+      "mediaUrl": "",
+      "thumbnail": "img/weatherwise.jpg",
+      "alt": "",
+      "link": {
+        "href": "https://www.mep.go.cr/educatico/weather-wise",
+        "label": ""
+      }
+    },
+    {
+      "id": 2,
+      "title": "",
+      "subtitle": "",
+      "description": "",
+      "mediaType": "image",
+      "mediaUrl": "",
+      "thumbnail": "img/natural.jpg",
+      "alt": "",
+      "link": {
+        "href": "https://www.mep.go.cr/educatico/natural-treasures",
+        "label": ""
+      }
+    },
+    {
+      "id": 3,
+      "title": "",
+      "subtitle": "",
+      "description": "",
+      "mediaType": "image",
+      "mediaUrl": "",
+      "thumbnail": "img/farm.png",
+      "alt": "",
+      "link": {
+        "href": "https://www.mep.go.cr/educatico/farm-table",
+        "label": ""
+      }
+    },
+    {
+      "id": 4,
+      "title": "",
+      "subtitle": "",
+      "description": "",
+      "mediaType": "image",
+      "mediaUrl": "",
+      "thumbnail": "img/img_take_care.jpg",
+      "alt": "",
+      "link": {
+        "href": "https://www.mep.go.cr/educatico/take-care",
+        "label": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "file": "quinto.html",
+  "title": "Sitio Primaria",
+  "pageHeading": "Primary",
+  "intro": "The Teacher´s Guide for fifth grade is a pedagogical resource that orients and enriches the planning process and the implementation of the new English Curriculum. It includes videos, activities and resources to develop each of the units of the Fifth grade Program.",
+  "cardsCount": 14,
+  "cards": [
+    {
+      "index": 1,
+      "ruta": "data/quinto/unit1.pdf",
+      "tipo": "pdf",
+      "src": "img/unit1quinto.jpg",
+      "alt": "",
+      "title": "",
+      "subtitle": "",
+      "text": "",
+      "link": {
+        "href": "data/quinto/unit1.docx",
+        "text": "Click here to download Word Document"
+      }
+    },
+    {
+      "index": 2,
+      "ruta": "data/quinto/unit2.pdf",
+      "tipo": "pdf",
+      "src": "img/img5u2.jpg",
+      "alt": "",
+      "title": "",
+      "subtitle": "",
+      "text": "",
+      "link": {
+        "href": "data/quinto/unit2.docx",
+        "text": "Click here to download Word Document"
+      }
+    },
+    {
+      "index": 3,
+      "ruta": "data/quinto/unit3.pdf",
+      "tipo": "pdf",
+      "src": "img/unit3quinto.jpg",
+      "alt": "",
+      "title": "",
+      "subtitle": "",
+      "text": "",
+      "link": {
+        "href": "data/quinto/unit3.docx",
+        "text": "Click here to download Word Document"
+      }
+    },
+    {
+      "index": 4,
+      "ruta": "data/quinto/unit4.pdf",
+      "tipo": "pdf",
+      "src": "img/img5u4.jpg",
+      "alt": "",
+      "title": "",
+      "subtitle": "",
+      "text": "",
+      "link": {
+        "href": "data/quinto/unit4.docx",
+        "text": "Click here to download Word Document"
+      }
+    },
+    {
+      "index": 5,
+      "ruta": "data/quinto/unit5.pdf",
+      "tipo": "pdf",
+      "src": "img/img5u5.jpg",
+      "alt": "",
+      "title": "",
+      "subtitle": "",
+      "text": "",
+      "link": {
+        "href": "data/quinto/unit5.docx",
+        "text": "Click here to download Word Document"
+      }
+    },
+    {
+      "index": 6,
+      "ruta": "data/quinto/unit6.pdf",
+      "tipo": "pdf",
+      "src": "img/imgU6quinto.jpg",
+      "alt": "",
+      "title": "",
+      "subtitle": "",
+      "text": "",
+      "link": {
+        "href": "data/quinto/unit6.docx",
+        "text": "Click here to download Word Document"
+      }
+    },
+    {
+      "index": 7,
+      "ruta": "audio/Quinto/1.mp3",
+      "tipo": "mp3",
+      "src": "img/audio.png",
+      "alt": "",
+      "title": "",
+      "subtitle": "",
+      "text": "",
+      "link": null
+    },
+    {
+      "index": 8,
+      "ruta": "",
+      "tipo": "",
+      "src": "",
+      "alt": "",
+      "title": "",
+      "subtitle": "",
+      "text": "Unit 3. My favorite Electronic devices",
+      "link": null
+    },
+    {
+      "index": 9,
+      "ruta": "audio/Quinto/2.mp3",
+      "tipo": "mp3",
+      "src": "img/audio.png",
+      "alt": "",
+      "title": "",
+      "subtitle": "",
+      "text": "",
+      "link": null
+    },
+    {
+      "index": 10,
+      "ruta": "",
+      "tipo": "",
+      "src": "",
+      "alt": "",
+      "title": "",
+      "subtitle": "",
+      "text": "Unit 3. Electronic´s Store Phone Call",
+      "link": null
+    },
+    {
+      "index": 11,
+      "ruta": "audio/Quinto/3.m4a",
+      "tipo": "mp3",
+      "src": "img/audio.png",
+      "alt": "",
+      "title": "",
+      "subtitle": "",
+      "text": "",
+      "link": null
+    },
+    {
+      "index": 12,
+      "ruta": "",
+      "tipo": "",
+      "src": "",
+      "alt": "",
+      "title": "",
+      "subtitle": "",
+      "text": "Unit 3. Looking for an Electronic Device",
+      "link": null
+    },
+    {
+      "index": 13,
+      "ruta": "audio/Quinto/4.m4a",
+      "tipo": "mp3",
+      "src": "img/audio.png",
+      "alt": "",
+      "title": "",
+      "subtitle": "",
+      "text": "",
+      "link": null
+    },
+    {
+      "index": 14,
+      "ruta": "",
+      "tipo": "",
+      "src": "",
+      "alt": "",
+      "title": "",
+      "subtitle": "Fifth",
+      "text": "Unit 3. Comparing Devices",
+      "link": {
+        "href": "data/quinto/material_week3Unit2/Activation of prior knowledge L3.pptx",
+        "text": "Activation of prior knowledge L3"
+      }
+    }
+  ]
+}

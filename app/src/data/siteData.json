@@ -1,0 +1,3617 @@
+{
+  "index": {
+    "id": "index",
+    "filename": "index.html",
+    "title": "Sitio Primaria",
+    "heading": "Primary",
+    "subtitle": "",
+    "intro": "",
+    "modalTitle": "First",
+    "downloadGuides": [],
+    "carouselSlides": [
+      {
+        "src": "img/carrusel/carrusel1.jpg",
+        "alt": "First slide"
+      },
+      {
+        "src": "img/carrusel/carrusel2.jpg",
+        "alt": "Second slide"
+      },
+      {
+        "src": "img/carrusel/carrusel3.jpg",
+        "alt": "Third slide"
+      }
+    ],
+    "cards": [
+      {
+        "id": 1,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "pdf",
+        "mediaUrl": "Tips/ABCmouse_Aprende_Tips for teachers.pdf",
+        "thumbnail": "Tips/img1.jpg",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 2,
+        "title": "Tip 1",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "Tip 1",
+        "link": null
+      },
+      {
+        "id": 3,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "Tips/img2.jpg",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 4,
+        "title": "Tip 2",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "Tip 2",
+        "link": null
+      },
+      {
+        "id": 5,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "img/tip3.jpg",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 6,
+        "title": "Tip 3",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "Tip 3",
+        "link": null
+      },
+      {
+        "id": 7,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "Tips/tip4.jpg",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 8,
+        "title": "Tip 4",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "Tip 4",
+        "link": null
+      },
+      {
+        "id": 9,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "Tips/tip5.jpg",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 10,
+        "title": "Tip 5",
+        "subtitle": "First",
+        "description": "",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "Tip 5",
+        "link": null
+      }
+    ]
+  },
+  "primero": {
+    "id": "primero",
+    "filename": "primero.html",
+    "title": "Sitio Primaria",
+    "heading": "First Grade",
+    "subtitle": "",
+    "intro": "The Teacher´s Guide for first grade is a pedagogical resource that orients and enriches the planning process and the implementation of the new English Curriculum. It includes videos, activities and resources to develop each of the units of the First grade Program.",
+    "modalTitle": "First",
+    "downloadGuides": [
+      {
+        "href": "data/primero/guia_primero.docx",
+        "label": "Click here to download Word Document"
+      }
+    ],
+    "carouselSlides": [],
+    "cards": [
+      {
+        "id": 1,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "pdf",
+        "mediaUrl": "data/primero/guide_1st_ grade.pdf",
+        "thumbnail": "img/img_guia_primero.jpg",
+        "alt": "",
+        "link": {
+          "href": "data/primero/guia_primero.docx",
+          "label": "Click here to download Word Document"
+        }
+      },
+      {
+        "id": 2,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "pdf",
+        "mediaUrl": "audio/primero/1unit/unidad(1).pdf",
+        "thumbnail": "img\\img_documento.png",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 3,
+        "title": "Unit #1",
+        "subtitle": "PDF",
+        "description": "Unit 1 Dialogs",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "Unit #1",
+        "link": null
+      },
+      {
+        "id": 4,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "mp3",
+        "mediaUrl": "audio/primero/1unit/1u1w1a1.mp3",
+        "thumbnail": "img/audio.png",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 5,
+        "title": "",
+        "subtitle": "",
+        "description": "L.4. Understand basic greetings, farewells, expressions of politeness and feelings (e.g., hello, good-bye, sorry, pardon?).",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 6,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "mp3",
+        "mediaUrl": "audio/primero/1unit/1u1w2a2.mp3",
+        "thumbnail": "img/audio.png",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 7,
+        "title": "",
+        "subtitle": "",
+        "description": "L.3. Understand simple questions, which directly concern them such as their name and where they are from.",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 8,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "mp3",
+        "mediaUrl": "audio/primero/1unit/1u1w4a3.mp3",
+        "thumbnail": "img/audio.png",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 9,
+        "title": "",
+        "subtitle": "",
+        "description": "L.1. Recognize simple information such as name, age, and perhaps country of origin when that information is given slowly and clearly.",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 10,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "pdf",
+        "mediaUrl": "audio/primero/2unit/unidad(2).pdf",
+        "thumbnail": "img\\img_documento.png",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 11,
+        "title": "Unit #2",
+        "subtitle": "PDF",
+        "description": "Unit 2 Dialogs",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "Unit #2",
+        "link": null
+      },
+      {
+        "id": 12,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "mp3",
+        "mediaUrl": "audio/primero/2unit/1u2w1a4.mp3",
+        "thumbnail": "img/audio.png",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 13,
+        "title": "",
+        "subtitle": "",
+        "description": "L.1. Understand simple classroom instructions, such as «Stand up, please», «Come here», or «Close the door, please» when expressed slowly and clearly, possibly with accompanying gestures and pictures.",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 14,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "mp3",
+        "mediaUrl": "audio/primero/2unit/1u2w2a5.mp3",
+        "thumbnail": "img/audio.png",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 15,
+        "title": "",
+        "subtitle": "",
+        "description": "L.3. Understand simple information about an object (for example, the size and color of a book, and where it is) if the person speaks slowly and clearly, possibly with accompanying gestures.",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 16,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "pdf",
+        "mediaUrl": "audio/primero/3unit/unidad(3).pdf",
+        "thumbnail": "img\\img_documento.png",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 17,
+        "title": "Unit #3",
+        "subtitle": "PDF",
+        "description": "Unit 3 Dialogs",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "Unit #3",
+        "link": null
+      },
+      {
+        "id": 18,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "mp3",
+        "mediaUrl": "audio/primero/3unit/1u3w1a6.mp3",
+        "thumbnail": "img/audio.png",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 19,
+        "title": "",
+        "subtitle": "",
+        "description": "L.1. Recognize the words for people around them (e.g. father, mother, brother, sister, baby).",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 20,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "mp3",
+        "mediaUrl": "audio/primero/3unit/1u3w2a7.mp3",
+        "thumbnail": "img/audio.png",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 21,
+        "title": "",
+        "subtitle": "",
+        "description": "L.2. Understand simple information about a person (for example, appearance and feelings) if the person speaks slowly and clearly, possibly with accompanying gestures.",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 22,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "pdf",
+        "mediaUrl": "audio/primero/4unit/unidad(4).pdf",
+        "thumbnail": "img\\img_documento.png",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 23,
+        "title": "Unit #4",
+        "subtitle": "PDF",
+        "description": "Unit 4 Dialogs",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "Unit #4",
+        "link": null
+      },
+      {
+        "id": 24,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "mp3",
+        "mediaUrl": "audio/primero/4unit/1u4w1a8.mp3",
+        "thumbnail": "img/audio.png",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 25,
+        "title": "",
+        "subtitle": "",
+        "description": "L.2.Understand simple information about a place (e.g., where it is) and instructions, such as «Go to the library», «Come inside», if the person speaks slowly and clearly, possibly with accompanying gestures.",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 26,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "mp3",
+        "mediaUrl": "audio/primero/4unit/1u4w2a9.mp3",
+        "thumbnail": "img/audio.png",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 27,
+        "title": "",
+        "subtitle": "",
+        "description": "L.1.Recognize and understand the words for people around them (e.g., teacher, students,principal).",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 28,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "pdf",
+        "mediaUrl": "audio/primero/5unit/unidad(5).pdf",
+        "thumbnail": "img\\img_documento.png",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 29,
+        "title": "Unit #5",
+        "subtitle": "PDF",
+        "description": "Unit 5 Dialogs",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "Unit #5",
+        "link": null
+      },
+      {
+        "id": 30,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "mp3",
+        "mediaUrl": "audio/primero/5unit/1u5w1a10.mp3",
+        "thumbnail": "img/audio.png",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 31,
+        "title": "",
+        "subtitle": "",
+        "description": "L.1. Understand simple questions which directly concern them such as their name and where they are from.",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 32,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "mp3",
+        "mediaUrl": "audio/primero/5unit/1u5w2a11.mp3",
+        "thumbnail": "img/audio.png",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 33,
+        "title": "",
+        "subtitle": "",
+        "description": "L.2. Recognize and understand the words for people around them (e.g., firefighter, shop owner, doctor).",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 34,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "pdf",
+        "mediaUrl": "audio/primero/6unit/unidad(6).pdf",
+        "thumbnail": "img\\img_documento.png",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 35,
+        "title": "Unit #6",
+        "subtitle": "PDF",
+        "description": "Unit 4 Dialogs",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "Unit #6",
+        "link": null
+      },
+      {
+        "id": 36,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "mp3",
+        "mediaUrl": "audio/primero/6unit/1u6w1a12.mp3",
+        "thumbnail": "img/audio.png",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 37,
+        "title": "",
+        "subtitle": "",
+        "description": "L.1. Recognize spoken words similar to the languages with which they are familiar (e.g., ball,music).",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 38,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "mp3",
+        "mediaUrl": "audio/primero/6unit/1u6w2a13.mp3",
+        "thumbnail": "img/audio.png",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 39,
+        "title": "",
+        "subtitle": "",
+        "description": "L.3. Understand words, names, and numbers previously learned when heard in a short,simple recording delivered at a slow pace.",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 40,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "mp3",
+        "mediaUrl": "audio/primero/6unit/1u6w4a14.mp3",
+        "thumbnail": "img/audio.png",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 41,
+        "title": "",
+        "subtitle": "First",
+        "description": "L.2. Understand simple instructions, such as «turn left», «turn right», or «turn off» when expressed slowly and clearly, possibly with accompanying gestures and pictures.",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "",
+        "link": null
+      }
+    ]
+  },
+  "segundo": {
+    "id": "segundo",
+    "filename": "segundo.html",
+    "title": "Sitio Primaria",
+    "heading": "Primary",
+    "subtitle": "Second 2°",
+    "intro": "The Teacher´s Guide for second grade is a pedagogical resource that orients and enriches the planning process and the implementation of the new English Curriculum. It includes videos, activities and resources to develop each of the units of the Second grade Program.",
+    "modalTitle": "Second",
+    "downloadGuides": [
+      {
+        "href": "data/segundo/guiasegundo.docx",
+        "label": "Click here to download Word Document"
+      }
+    ],
+    "carouselSlides": [],
+    "cards": [
+      {
+        "id": 1,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "pdf",
+        "mediaUrl": "data/segundo/guide_second.pdf",
+        "thumbnail": "img/img_guia_segundo.jpg",
+        "alt": "",
+        "link": {
+          "href": "data/segundo/guiasegundo.docx",
+          "label": "Click here to download Word Document"
+        }
+      },
+      {
+        "id": 2,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "pdf",
+        "mediaUrl": "audio/segundo/unid(1)/unit1_dialogs.pdf",
+        "thumbnail": "img/img_documento.png",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 3,
+        "title": "Unit #1",
+        "subtitle": "PDF",
+        "description": "Unit 1 Dialogs",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "Unit #1",
+        "link": null
+      },
+      {
+        "id": 4,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "mp3",
+        "mediaUrl": "audio/segundo/unid(1)/2u1w1a1.mp3",
+        "thumbnail": "img/audio.png",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 5,
+        "title": "",
+        "subtitle": "",
+        "description": "L.4. Understand basic greetings, farewells, expressions of politeness and feelings (e.g., hello, good-bye, sorry, pardon?).",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 6,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "mp3",
+        "mediaUrl": "audio/segundo/unid(1)/2u1w2a2.mp3",
+        "thumbnail": "img/audio.png",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 7,
+        "title": "",
+        "subtitle": "",
+        "description": "L.3. Understand simple questions, which directly concern them such as their name and where they are from.",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 8,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "pdf",
+        "mediaUrl": "audio/segundo/unid(2)/unit2_dialogs.pdf",
+        "thumbnail": "img/img_documento.png",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 9,
+        "title": "Unit #2",
+        "subtitle": "PDF",
+        "description": "Unit 2 Dialogs",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "Unit #2",
+        "link": null
+      },
+      {
+        "id": 10,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "mp3",
+        "mediaUrl": "audio/segundo/unid(2)/2u2w2a3.mp3",
+        "thumbnail": "img/audio.png",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 11,
+        "title": "",
+        "subtitle": "",
+        "description": "L.1. Understand simple classroom instructions, such as «Stand up, please», «Come here», or «Close the door, please» when expressed slowly and clearly, possibly with accompanying gestures and pictures.",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 12,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "mp3",
+        "mediaUrl": "audio/segundo/unid(2)/2u2w3a4.mp3",
+        "thumbnail": "img/audio.png",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 13,
+        "title": "",
+        "subtitle": "",
+        "description": "L.3. Understand simple information about an object (for example, the size and color of a book, and where it is) if the person speaks slowly and clearly, possibly with accompanying gestures.",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 14,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "pdf",
+        "mediaUrl": "audio/segundo/unid(3)/unit3_dialogs.pdf",
+        "thumbnail": "img/img_documento.png",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 15,
+        "title": "Unit #3",
+        "subtitle": "PDF",
+        "description": "Unit 3 Dialogs",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "Unit #3",
+        "link": null
+      },
+      {
+        "id": 16,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "mp3",
+        "mediaUrl": "audio/segundo/unid(3)/2u3w1a5.mp3",
+        "thumbnail": "img/audio.png",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 17,
+        "title": "",
+        "subtitle": "",
+        "description": "L.1. Recognize the words for people around them (e.g. father, mother, brother, sister, baby).",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 18,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "mp3",
+        "mediaUrl": "audio/segundo/unid(3)/2u3w4a6.mp3",
+        "thumbnail": "img/audio.png",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 19,
+        "title": "",
+        "subtitle": "",
+        "description": "L.2. Understand simple information about a person (for example, appearance and feelings) if the person speaks slowly and clearly, possibly with accompanying gestures.",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 20,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "pdf",
+        "mediaUrl": "audio/segundo/unid(4)/unit4_dialogs.pdf",
+        "thumbnail": "img/img_documento.png",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 21,
+        "title": "Unit #4",
+        "subtitle": "PDF",
+        "description": "Unit 4 Dialogs",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "Unit #4",
+        "link": null
+      },
+      {
+        "id": 22,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "mp3",
+        "mediaUrl": "audio/segundo/unid(4)/2u4w1a7.mp3",
+        "thumbnail": "img/audio.png",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 23,
+        "title": "",
+        "subtitle": "",
+        "description": "L.2. Understand simple information about a place (e.g., where it is) and instructions, such as «Go to the library», «Come inside», if the person speaks slowly and clearly, possibly with accompanying gestures.",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 24,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "mp3",
+        "mediaUrl": "audio/segundo/unid(4)/2u4w4a8.mp3",
+        "thumbnail": "img/audio.png",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 25,
+        "title": "",
+        "subtitle": "",
+        "description": "L.1. Recognize and understand the words for people around them (e.g., teacher, students,principal).",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 26,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "pdf",
+        "mediaUrl": "audio/segundo/unid(5)/unit5_dialogs.pdf",
+        "thumbnail": "img/img_documento.png",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 27,
+        "title": "Unit #5",
+        "subtitle": "PDF",
+        "description": "Unit 5 Dialogs",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "Unit #5",
+        "link": null
+      },
+      {
+        "id": 28,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "mp3",
+        "mediaUrl": "audio/segundo/unid(5)/2u5w1a9.mp3",
+        "thumbnail": "img/audio.png",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 29,
+        "title": "",
+        "subtitle": "",
+        "description": "L.1. Understand simple questions which directly concern them such as their name and where they are from.",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 30,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "mp3",
+        "mediaUrl": "audio/segundo/unid(5)/2u5w2a10.mp3",
+        "thumbnail": "img/audio.png",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 31,
+        "title": "",
+        "subtitle": "",
+        "description": "L.2. Recognize and understand the words for people around them (e.g., firefighter, shop owner, doctor).",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 32,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "pdf",
+        "mediaUrl": "audio/segundo/unid(6)/unit6_dialogs.pdf",
+        "thumbnail": "img/img_documento.png",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 33,
+        "title": "Unit #6",
+        "subtitle": "PDF",
+        "description": "Unit 6 Dialogs",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "Unit #6",
+        "link": null
+      },
+      {
+        "id": 34,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "mp3",
+        "mediaUrl": "audio/segundo/unid(6)/2u6w1a11.mp3",
+        "thumbnail": "img/audio.png",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 35,
+        "title": "",
+        "subtitle": "",
+        "description": "L.1. Recognize spoken words similar to the languages with which they are familiar (e.g., ball,music).",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 36,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "mp3",
+        "mediaUrl": "audio/segundo/unid(6)/2u6 w2a12.mp3",
+        "thumbnail": "img/audio.png",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 37,
+        "title": "",
+        "subtitle": "",
+        "description": "L.3. Understand words, names, and numbers previously learned when heard in a short,simple recording delivered at a slow pace.",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 38,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "mp3",
+        "mediaUrl": "audio/segundo/unid(6)/2u6w4a12.mp3",
+        "thumbnail": "img/audio.png",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 39,
+        "title": "",
+        "subtitle": "Second",
+        "description": "L.2. Understand simple instructions, such as «turn left», «turn right», or «turn off» when expressed slowly and clearly, possibly with accompanying gestures and pictures.",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "",
+        "link": null
+      }
+    ]
+  },
+  "tercero": {
+    "id": "tercero",
+    "filename": "tercero.html",
+    "title": "Sitio Primaria",
+    "heading": "Primary",
+    "subtitle": "Third Grade 3°",
+    "intro": "The Teacher´s Guide for third grade is a pedagogical resource that orients and enriches the planning process and the implementation of the new English Curriculum. It includes videos, activities and resources to develop each of the units of the Third grade Program.",
+    "modalTitle": "Third",
+    "downloadGuides": [
+      {
+        "href": "data/tercero/guia_tercero.docx",
+        "label": "Click here to download Word Document"
+      }
+    ],
+    "carouselSlides": [],
+    "cards": [
+      {
+        "id": 1,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "pdf",
+        "mediaUrl": "data/tercero/thirdgradeguide.pdf",
+        "thumbnail": "img/img_guia_tercero.jpg",
+        "alt": "",
+        "link": {
+          "href": "data/tercero/guia_tercero.docx",
+          "label": "Click here to download Word Document"
+        }
+      },
+      {
+        "id": 2,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "pdf",
+        "mediaUrl": "data/tercero/scripts3rdgrade/unit1.pdf",
+        "thumbnail": "img/img_documento.png",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 3,
+        "title": "Unit #1",
+        "subtitle": "PDF",
+        "description": "Unit 1 Dialogs",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "Unit #1",
+        "link": null
+      },
+      {
+        "id": 4,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "mp3",
+        "mediaUrl": "data/tercero/scripts3rdgrade/au1.mp3",
+        "thumbnail": "img/audio.png",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 5,
+        "title": "",
+        "subtitle": "",
+        "description": "Unit 1. Family Chores.",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 6,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "mp3",
+        "mediaUrl": "data/tercero/scripts3rdgrade/au2.mp3",
+        "thumbnail": "img/audio.png",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 7,
+        "title": "",
+        "subtitle": "",
+        "description": "Unit 1. Things I like to do to help my family",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 8,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "mp3",
+        "mediaUrl": "data/tercero/scripts3rdgrade/au3.mp3",
+        "thumbnail": "img/audio.png",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 9,
+        "title": "",
+        "subtitle": "",
+        "description": "Unit 1. Can you help me?",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 10,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "mp3",
+        "mediaUrl": "data/tercero/scripts3rdgrade/au4.mp3",
+        "thumbnail": "img/audio.png",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 11,
+        "title": "",
+        "subtitle": "",
+        "description": "Unit 1. Where is the broom?",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 12,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "pdf",
+        "mediaUrl": "data/tercero/scripts3rdgrade/unit2.pdf",
+        "thumbnail": "img/img_documento.png",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 13,
+        "title": "Unit #2",
+        "subtitle": "PDF",
+        "description": "Unit 2 Dialogs",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "Unit #2",
+        "link": null
+      },
+      {
+        "id": 14,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "mp3",
+        "mediaUrl": "data/tercero/scripts3rdgrade/au5.mp3",
+        "thumbnail": "img/audio.png",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 15,
+        "title": "",
+        "subtitle": "",
+        "description": "Unit 2. What is there to celebrate?",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 16,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "mp3",
+        "mediaUrl": "data/tercero/scripts3rdgrade/au6.mp3",
+        "thumbnail": "img/audio.png",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 17,
+        "title": "",
+        "subtitle": "",
+        "description": "Unit 2.My family´s special dates",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 18,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "mp3",
+        "mediaUrl": "data/tercero/scripts3rdgrade/au7.mp3",
+        "thumbnail": "img/audio.png",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 19,
+        "title": "",
+        "subtitle": "",
+        "description": "Unit 2.When is your birthday",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 20,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "mp3",
+        "mediaUrl": "data/tercero/scripts3rdgrade/au8.mp3",
+        "thumbnail": "img/audio.png",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 21,
+        "title": "",
+        "subtitle": "",
+        "description": "Unit 2.Sharing family celebrations",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 22,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "pdf",
+        "mediaUrl": "data/tercero/scripts3rdgrade/unit3.pdf",
+        "thumbnail": "img/img_documento.png",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 23,
+        "title": "Unit #3",
+        "subtitle": "PDF",
+        "description": "Unit 3 Dialogs",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "Unit #3",
+        "link": null
+      },
+      {
+        "id": 24,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "mp3",
+        "mediaUrl": "data/tercero/scripts3rdgrade/au9.mp3",
+        "thumbnail": "img/audio.png",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 25,
+        "title": "",
+        "subtitle": "",
+        "description": "Unit 3. Is he the cashier or the clerk",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 26,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "mp3",
+        "mediaUrl": "data/tercero/scripts3rdgrade/au10.mp3",
+        "thumbnail": "img/audio.png",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 27,
+        "title": "",
+        "subtitle": "",
+        "description": "Unit 3. Going to a store",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 28,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "mp3",
+        "mediaUrl": "data/tercero/scripts3rdgrade/au11.mp3",
+        "thumbnail": "img/audio.png",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 29,
+        "title": "",
+        "subtitle": "",
+        "description": "Unit 3. Where do I get some fresh vegetables?",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 30,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "mp3",
+        "mediaUrl": "data/tercero/scripts3rdgrade/au12.mp3",
+        "thumbnail": "img/audio.png",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 31,
+        "title": "",
+        "subtitle": "",
+        "description": "Unit 3.How much does it cost?",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 32,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "pdf",
+        "mediaUrl": "data/tercero/scripts3rdgrade/unit4.pdf",
+        "thumbnail": "img/img_documento.png",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 33,
+        "title": "Unit #4",
+        "subtitle": "PDF",
+        "description": "Unit 4 Dialogs",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "Unit #4",
+        "link": null
+      },
+      {
+        "id": 34,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "mp3",
+        "mediaUrl": "data/tercero/scripts3rdgrade/au13.mp3",
+        "thumbnail": "img/audio.png",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 35,
+        "title": "",
+        "subtitle": "",
+        "description": "Unit 4. A day in my community",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 36,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "mp3",
+        "mediaUrl": "data/tercero/scripts3rdgrade/au14.mp3",
+        "thumbnail": "img/audio.png",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 37,
+        "title": "",
+        "subtitle": "",
+        "description": "Unit 4. Help! I need a pair of shoes",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 38,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "mp3",
+        "mediaUrl": "data/tercero/scripts3rdgrade/au15.mp3",
+        "thumbnail": "img/audio.png",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 39,
+        "title": "",
+        "subtitle": "",
+        "description": "Unit 4. Walk this way",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 40,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "mp3",
+        "mediaUrl": "data/tercero/scripts3rdgrade/au16.mp3",
+        "thumbnail": "img/audio.png",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 41,
+        "title": "",
+        "subtitle": "",
+        "description": "Unit 4. Step by step directions",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 42,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "pdf",
+        "mediaUrl": "data/tercero/scripts3rdgrade/unit5.pdf",
+        "thumbnail": "img/img_documento.png",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 43,
+        "title": "Unit #5",
+        "subtitle": "PDF",
+        "description": "Unit 5 Dialogs",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "Unit #5",
+        "link": null
+      },
+      {
+        "id": 44,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "mp3",
+        "mediaUrl": "data/tercero/scripts3rdgrade/au17.mp3",
+        "thumbnail": "img/audio.png",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 45,
+        "title": "",
+        "subtitle": "",
+        "description": "Unit 5. Let´s go outside",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 46,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "mp3",
+        "mediaUrl": "data/tercero/scripts3rdgrade/au18.mp3",
+        "thumbnail": "img/audio.png",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 47,
+        "title": "",
+        "subtitle": "",
+        "description": "Unit 5. Indoor fun on a rainy day.",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 48,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "mp3",
+        "mediaUrl": "data/tercero/scripts3rdgrade/au19.mp3",
+        "thumbnail": "img/audio.png",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 49,
+        "title": "",
+        "subtitle": "",
+        "description": "Unit 5. Come on! Make up your mind.",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 50,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "mp3",
+        "mediaUrl": "data/tercero/scripts3rdgrade/au20.mp3",
+        "thumbnail": "img/audio.png",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 51,
+        "title": "",
+        "subtitle": "",
+        "description": "Unit 5. Are you ready to have fun?",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 52,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "pdf",
+        "mediaUrl": "data/tercero/scripts3rdgrade/unit6.pdf",
+        "thumbnail": "img/img_documento.png",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 53,
+        "title": "Unit #6",
+        "subtitle": "PDF",
+        "description": "Unit 6 Dialogs",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "Unit #6",
+        "link": null
+      },
+      {
+        "id": 54,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "mp3",
+        "mediaUrl": "data/tercero/scripts3rdgrade/au21.mp3",
+        "thumbnail": "img/audio.png",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 55,
+        "title": "",
+        "subtitle": "",
+        "description": "Unit 6. Costa Rica: a diverse country",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 56,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "mp3",
+        "mediaUrl": "data/tercero/scripts3rdgrade/au22.mp3",
+        "thumbnail": "img/audio.png",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 57,
+        "title": "",
+        "subtitle": "",
+        "description": "Unit 6. Where can I go?",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 58,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "mp3",
+        "mediaUrl": "data/tercero/scripts3rdgrade/au23.mp3",
+        "thumbnail": "img/audio.png",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 59,
+        "title": "",
+        "subtitle": "",
+        "description": "Unit 6. How will I get there?",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 60,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "mp3",
+        "mediaUrl": "data/tercero/scripts3rdgrade/au24.mp3",
+        "thumbnail": "img/audio.png",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 61,
+        "title": "",
+        "subtitle": "Third",
+        "description": "Unit 6. Exploring Costa Rica: no better places to be",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "",
+        "link": null
+      }
+    ]
+  },
+  "cuarto": {
+    "id": "cuarto",
+    "filename": "cuarto.html",
+    "title": "Sitio Primaria",
+    "heading": "Primary",
+    "subtitle": "Fourth 4°",
+    "intro": "The Teacher´s Guide for fourth grade is a pedagogical resource that orients and enriches the planning process and the implementation of the new English Curriculum. It includes videos, activities and resources to develop each of the units of the Second grade Program.",
+    "modalTitle": "Fourth",
+    "downloadGuides": [
+      {
+        "href": "data/cuarto/unit1.docx",
+        "label": "Click here to download Word Document"
+      },
+      {
+        "href": "data/cuarto/unit2.docx",
+        "label": "Click here to download Word Document"
+      },
+      {
+        "href": "data/cuarto/unit3.docx",
+        "label": "Click here to download Word Document"
+      },
+      {
+        "href": "data/cuarto/unit4.docx",
+        "label": "Click here to download Word Document"
+      },
+      {
+        "href": "data/cuarto/unit5.docx",
+        "label": "Click here to download Word Document"
+      },
+      {
+        "href": "data/cuarto/unit6.docx",
+        "label": "Click here to download Word Document"
+      }
+    ],
+    "carouselSlides": [],
+    "cards": [
+      {
+        "id": 1,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "pdf",
+        "mediaUrl": "data/cuarto/unit1.pdf",
+        "thumbnail": "img/imgunit1cuarto.png",
+        "alt": "",
+        "link": {
+          "href": "data/cuarto/unit1.docx",
+          "label": "Click here to download Word Document"
+        }
+      },
+      {
+        "id": 2,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "pdf",
+        "mediaUrl": "data/cuarto/unit2.pdf",
+        "thumbnail": "img/imgunit2cuarto.png",
+        "alt": "",
+        "link": {
+          "href": "data/cuarto/unit2.docx",
+          "label": "Click here to download Word Document"
+        }
+      },
+      {
+        "id": 3,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "pdf",
+        "mediaUrl": "data/cuarto/unit3.pdf",
+        "thumbnail": "img/imgunit3cuarto.png",
+        "alt": "",
+        "link": {
+          "href": "data/cuarto/unit3.docx",
+          "label": "Click here to download Word Document"
+        }
+      },
+      {
+        "id": 4,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "pdf",
+        "mediaUrl": "data/cuarto/unit4.pdf",
+        "thumbnail": "img/unit4.jpg",
+        "alt": "",
+        "link": {
+          "href": "data/cuarto/unit4.docx",
+          "label": "Click here to download Word Document"
+        }
+      },
+      {
+        "id": 5,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "pdf",
+        "mediaUrl": "data/cuarto/unit5.pdf",
+        "thumbnail": "img/unit5.png",
+        "alt": "",
+        "link": {
+          "href": "data/cuarto/unit5.docx",
+          "label": "Click here to download Word Document"
+        }
+      },
+      {
+        "id": 6,
+        "title": "",
+        "subtitle": "Fourth",
+        "description": "",
+        "mediaType": "pdf",
+        "mediaUrl": "data/cuarto/unit6.pdf",
+        "thumbnail": "img/unit6.png",
+        "alt": "",
+        "link": {
+          "href": "data/cuarto/unit6.docx",
+          "label": "Click here to download Word Document"
+        }
+      }
+    ]
+  },
+  "quinto": {
+    "id": "quinto",
+    "filename": "quinto.html",
+    "title": "Sitio Primaria",
+    "heading": "Primary",
+    "subtitle": "Fifth 5°",
+    "intro": "The Teacher´s Guide for fifth grade is a pedagogical resource that orients and enriches the planning process and the implementation of the new English Curriculum. It includes videos, activities and resources to develop each of the units of the Fifth grade Program.",
+    "modalTitle": "Fifth",
+    "downloadGuides": [
+      {
+        "href": "data/quinto/unit1.docx",
+        "label": "Click here to download Word Document"
+      },
+      {
+        "href": "data/quinto/unit2.docx",
+        "label": "Click here to download Word Document"
+      },
+      {
+        "href": "data/quinto/unit3.docx",
+        "label": "Click here to download Word Document"
+      },
+      {
+        "href": "data/quinto/unit4.docx",
+        "label": "Click here to download Word Document"
+      },
+      {
+        "href": "data/quinto/unit5.docx",
+        "label": "Click here to download Word Document"
+      },
+      {
+        "href": "data/quinto/unit6.docx",
+        "label": "Click here to download Word Document"
+      },
+      {
+        "href": "data/quinto/material_week3Unit2/Activation of prior knowledge L3.pptx",
+        "label": "Activation of prior knowledge L3"
+      },
+      {
+        "href": "data/quinto/material_week3Unit2/Pre task lesson R3.pptx",
+        "label": "Pre task lesson R3"
+      },
+      {
+        "href": "data/quinto/material_week3Unit2/Pre task W1.pptx",
+        "label": "Pre task W1"
+      },
+      {
+        "href": "data/quinto/material_week3Unit2/Task assessment R3.pdf",
+        "label": "Task assessment R3"
+      },
+      {
+        "href": "data/quinto/material_week3Unit2/Task Asssesment SP1.pdf",
+        "label": "Task assessment SP1"
+      },
+      {
+        "href": "data/quinto/material_week3Unit2/Task completion R.PA.1.pptx",
+        "label": "Task completion R.PA.1"
+      },
+      {
+        "href": "data/quinto/material_week3Unit2/Task completion SP1.pdf",
+        "label": "Task completion SP1"
+      },
+      {
+        "href": "data/quinto/material_week3Unit2/Task rehearsal R3.pptx",
+        "label": "Task reherarsal R3"
+      },
+      {
+        "href": "data/quinto/material_week3Unit2/Third week planning.docx",
+        "label": "Third week planning"
+      },
+      {
+        "href": "data/quinto/material_week3Unit2/Task-rehearsal W1.docx",
+        "label": "Task-rehearsal W1"
+      }
+    ],
+    "carouselSlides": [],
+    "cards": [
+      {
+        "id": 1,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "pdf",
+        "mediaUrl": "data/quinto/unit1.pdf",
+        "thumbnail": "img/unit1quinto.jpg",
+        "alt": "",
+        "link": {
+          "href": "data/quinto/unit1.docx",
+          "label": "Click here to download Word Document"
+        }
+      },
+      {
+        "id": 2,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "pdf",
+        "mediaUrl": "data/quinto/unit2.pdf",
+        "thumbnail": "img/img5u2.jpg",
+        "alt": "",
+        "link": {
+          "href": "data/quinto/unit2.docx",
+          "label": "Click here to download Word Document"
+        }
+      },
+      {
+        "id": 3,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "pdf",
+        "mediaUrl": "data/quinto/unit3.pdf",
+        "thumbnail": "img/unit3quinto.jpg",
+        "alt": "",
+        "link": {
+          "href": "data/quinto/unit3.docx",
+          "label": "Click here to download Word Document"
+        }
+      },
+      {
+        "id": 4,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "pdf",
+        "mediaUrl": "data/quinto/unit4.pdf",
+        "thumbnail": "img/img5u4.jpg",
+        "alt": "",
+        "link": {
+          "href": "data/quinto/unit4.docx",
+          "label": "Click here to download Word Document"
+        }
+      },
+      {
+        "id": 5,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "pdf",
+        "mediaUrl": "data/quinto/unit5.pdf",
+        "thumbnail": "img/img5u5.jpg",
+        "alt": "",
+        "link": {
+          "href": "data/quinto/unit5.docx",
+          "label": "Click here to download Word Document"
+        }
+      },
+      {
+        "id": 6,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "pdf",
+        "mediaUrl": "data/quinto/unit6.pdf",
+        "thumbnail": "img/imgU6quinto.jpg",
+        "alt": "",
+        "link": {
+          "href": "data/quinto/unit6.docx",
+          "label": "Click here to download Word Document"
+        }
+      },
+      {
+        "id": 7,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "mp3",
+        "mediaUrl": "audio/Quinto/1.mp3",
+        "thumbnail": "img/audio.png",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 8,
+        "title": "",
+        "subtitle": "",
+        "description": "Unit 3. My favorite Electronic devices",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 9,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "mp3",
+        "mediaUrl": "audio/Quinto/2.mp3",
+        "thumbnail": "img/audio.png",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 10,
+        "title": "",
+        "subtitle": "",
+        "description": "Unit 3. Electronic´s Store Phone Call",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 11,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "mp3",
+        "mediaUrl": "audio/Quinto/3.m4a",
+        "thumbnail": "img/audio.png",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 12,
+        "title": "",
+        "subtitle": "",
+        "description": "Unit 3. Looking for an Electronic Device",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 13,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "mp3",
+        "mediaUrl": "audio/Quinto/4.m4a",
+        "thumbnail": "img/audio.png",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 14,
+        "title": "",
+        "subtitle": "Fifth",
+        "description": "Unit 3. Comparing Devices",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "",
+        "link": {
+          "href": "data/quinto/material_week3Unit2/Activation of prior knowledge L3.pptx",
+          "label": "Activation of prior knowledge L3"
+        }
+      }
+    ]
+  },
+  "sexto": {
+    "id": "sexto",
+    "filename": "sexto.html",
+    "title": "Sitio Primaria",
+    "heading": "Primary",
+    "subtitle": "Sixth 6°",
+    "intro": "The Teacher`s Guide for sixth grade is a pedagogical resource that orients and enriches the planning process and the implementation of the English Curriculum. It includes videos, activities and resources to develop each of the units of the Sixth grade Program.",
+    "modalTitle": "Sixth",
+    "downloadGuides": [
+      {
+        "href": "data/sexto/guia_sextoUnit1.docx",
+        "label": "Click here to download Word Document"
+      },
+      {
+        "href": "data/sexto/guia_sextoUnit2.docx",
+        "label": "Click here to download Word Document"
+      },
+      {
+        "href": "data/sexto/guia_sextoUnit3.docx",
+        "label": "Click here to download Word Document"
+      },
+      {
+        "href": "data/sexto/guia_sextoUnit4.docx",
+        "label": "Click here to download Word Document"
+      },
+      {
+        "href": "data/sexto/6grade_unit1_week2_review.pptx",
+        "label": "Click here to download the Power Point"
+      },
+      {
+        "href": "data/sexto/hidden_picture_game.pptx",
+        "label": "Click here to download the Power Point"
+      },
+      {
+        "href": "data/other/ppt\\Unit3Sexto/week 1 Unit 3 Sixth Grade.pptx",
+        "label": "Click here to download the Power Point"
+      },
+      {
+        "href": "data/other/ppt/Unit3Sexto/UNIT 3_WEEK 2.pptx",
+        "label": "Click here to download the Power Point"
+      },
+      {
+        "href": "data/other/ppt/Unit3Sexto/Week 3 Activation of prior knowlwdge.pptx",
+        "label": "Click here to download the Power Point"
+      },
+      {
+        "href": "data/other/ppt/Unit3Sexto/Week 3 Spoken production TA.pptx",
+        "label": "Click here to download the Power Point"
+      },
+      {
+        "href": "data/other/ppt/Unit3Sexto/What can I do about litter.pptx",
+        "label": "Click here to download the Power Point"
+      },
+      {
+        "href": "data/other/ppt/Unit3Sexto/PPT AFFIX WEEK 4.pptx",
+        "label": "Click here to download the Power Point"
+      }
+    ],
+    "carouselSlides": [],
+    "cards": [
+      {
+        "id": 1,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "pdf",
+        "mediaUrl": "data/sexto/guia_sextoUnit1.pdf",
+        "thumbnail": "img/unit1_sexto.png",
+        "alt": "",
+        "link": {
+          "href": "data/sexto/guia_sextoUnit1.docx",
+          "label": "Click here to download Word Document"
+        }
+      },
+      {
+        "id": 2,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "pdf",
+        "mediaUrl": "data/sexto/guia_sextoUnit2.pdf",
+        "thumbnail": "img/unit2_sexto.jpg",
+        "alt": "",
+        "link": {
+          "href": "data/sexto/guia_sextoUnit2.docx",
+          "label": "Click here to download Word Document"
+        }
+      },
+      {
+        "id": 3,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "pdf",
+        "mediaUrl": "data/sexto/guia_sextoUnit3.pdf",
+        "thumbnail": "img/unit3_sexto.jpg",
+        "alt": "",
+        "link": {
+          "href": "data/sexto/guia_sextoUnit3.docx",
+          "label": "Click here to download Word Document"
+        }
+      },
+      {
+        "id": 4,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "pdf",
+        "mediaUrl": "data/sexto/guia_sextoUnit4.pdf",
+        "thumbnail": "img/unit4_sexto.jpg",
+        "alt": "",
+        "link": {
+          "href": "data/sexto/guia_sextoUnit4.docx",
+          "label": "Click here to download Word Document"
+        }
+      },
+      {
+        "id": 5,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "mp3",
+        "mediaUrl": "data/sexto/dreams_come_true.mp3",
+        "thumbnail": "img/audio.png",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 6,
+        "title": "",
+        "subtitle": "",
+        "description": "Unit 1. Dreams Come True",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 7,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "mp3",
+        "mediaUrl": "data/sexto/spider_man_audio.mp3",
+        "thumbnail": "img/audio.png",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 8,
+        "title": "",
+        "subtitle": "",
+        "description": "Unit 1. Spider Man",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 9,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "mp3",
+        "mediaUrl": "data/sexto/peferences_tech_devices.mp3",
+        "thumbnail": "img/audio.png",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 10,
+        "title": "",
+        "subtitle": "",
+        "description": "Unit 2.Peferences: Technological Devices",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 11,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "data/sexto/phonemic_review.png",
+        "alt": "",
+        "link": {
+          "href": "data/sexto/6grade_unit1_week2_review.pptx",
+          "label": "Click here to download the Power Point"
+        }
+      },
+      {
+        "id": 12,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "data/sexto/who_is_behind.png",
+        "alt": "",
+        "link": {
+          "href": "data/sexto/hidden_picture_game.pptx",
+          "label": "Click here to download the Power Point"
+        }
+      },
+      {
+        "id": 13,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "data/other/ppt/Unit3Sexto/unit3_env.png",
+        "alt": "",
+        "link": {
+          "href": "data/other/ppt\\Unit3Sexto/week 1 Unit 3 Sixth Grade.pptx",
+          "label": "Click here to download the Power Point"
+        }
+      },
+      {
+        "id": 14,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "data/other/ppt/Unit3Sexto/unit3_week2.jpg",
+        "alt": "",
+        "link": {
+          "href": "data/other/ppt/Unit3Sexto/UNIT 3_WEEK 2.pptx",
+          "label": "Click here to download the Power Point"
+        }
+      },
+      {
+        "id": 15,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "data/other/ppt/Unit3Sexto/week3Activation.jpg",
+        "alt": "",
+        "link": {
+          "href": "data/other/ppt/Unit3Sexto/Week 3 Activation of prior knowlwdge.pptx",
+          "label": "Click here to download the Power Point"
+        }
+      },
+      {
+        "id": 16,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "data/other/ppt/Unit3Sexto/week3Spoken.jpg",
+        "alt": "",
+        "link": {
+          "href": "data/other/ppt/Unit3Sexto/Week 3 Spoken production TA.pptx",
+          "label": "Click here to download the Power Point"
+        }
+      },
+      {
+        "id": 17,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "data/other/ppt/Unit3Sexto/whatcan....jpg",
+        "alt": "",
+        "link": {
+          "href": "data/other/ppt/Unit3Sexto/What can I do about litter.pptx",
+          "label": "Click here to download the Power Point"
+        }
+      },
+      {
+        "id": 18,
+        "title": "",
+        "subtitle": "Sixth",
+        "description": "",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "data/other/ppt/Unit3Sexto/pptAffix.jpg",
+        "alt": "",
+        "link": {
+          "href": "data/other/ppt/Unit3Sexto/PPT AFFIX WEEK 4.pptx",
+          "label": "Click here to download the Power Point"
+        }
+      }
+    ]
+  },
+  "warmups": {
+    "id": "warmups",
+    "filename": "warmups.html",
+    "title": "Sitio Primaria",
+    "heading": "Some warm up activities",
+    "subtitle": "",
+    "intro": "",
+    "modalTitle": "More resources",
+    "downloadGuides": [],
+    "carouselSlides": [],
+    "cards": [
+      {
+        "id": 1,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "youtube",
+        "mediaUrl": "https://www.youtube.com/embed/cZeM18fPbvI",
+        "thumbnail": "img/portadas-videos/video32.jpg",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 2,
+        "title": "Body Boogie Dance: Kids Dance Songs by The Learning Station",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "Body Boogie Dance: Kids Dance Songs by The Learning Station",
+        "link": null
+      },
+      {
+        "id": 3,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "youtube",
+        "mediaUrl": "https://www.youtube.com/embed/lj6rzlSNqF8",
+        "thumbnail": "img/portadas-videos/video33.jpg",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 4,
+        "title": "Minidisco Hello!:Team4Animation",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "Minidisco Hello!:Team4Animation",
+        "link": null
+      },
+      {
+        "id": 5,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "youtube",
+        "mediaUrl": "https://www.youtube.com/embed/69f9sCwhwYk",
+        "thumbnail": "img/portadas-videos/video34.jpg",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 6,
+        "title": "Boom Chicka Boom:The Learning Station",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "Boom Chicka Boom:The Learning Station",
+        "link": null
+      },
+      {
+        "id": 7,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "youtube",
+        "mediaUrl": "https://www.youtube.com/embed/FX20kcp7j5c",
+        "thumbnail": "img/portadas-videos/video35.jpg",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 8,
+        "title": "Baby Shark",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "Baby Shark",
+        "link": null
+      },
+      {
+        "id": 9,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "youtube",
+        "mediaUrl": "https://www.youtube.com/embed/cap54yZoiQ8",
+        "thumbnail": "img/portadas-videos/video36.jpg",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 10,
+        "title": "Color Freeze Dance Music That Stops:The Kiboomers",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "Color Freeze Dance Music That Stops:The Kiboomers",
+        "link": null
+      },
+      {
+        "id": 11,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "youtube",
+        "mediaUrl": "https://www.youtube.com/embed/iWTbmnfvD_4",
+        "thumbnail": "img/portadas-videos/video37.jpg",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 12,
+        "title": "Exercise Song for Kids: The Learning Station",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "Exercise Song for Kids: The Learning Station",
+        "link": null
+      },
+      {
+        "id": 13,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "youtube",
+        "mediaUrl": "https://www.youtube.com/embed/w6YbSxMhsQ0",
+        "thumbnail": "img/portadas-videos/video38.jpg",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 14,
+        "title": "Get Funky ♫ Funky Monkey Dance ♫ :The Learning Station",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "Get Funky ♫ Funky Monkey Dance ♫ :The Learning Station",
+        "link": null
+      },
+      {
+        "id": 15,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "youtube",
+        "mediaUrl": "https://www.youtube.com/embed/22kqia2ibVU",
+        "thumbnail": "img/portadas-videos/video39.jpg",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 16,
+        "title": "I am the Music Man:The Learning Station",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "img/portadas-videos/img1.jpg",
+        "alt": "I am the Music Man:The Learning Station",
+        "link": null
+      },
+      {
+        "id": 17,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "youtube",
+        "mediaUrl": "https://www.youtube.com/embed/uUIGKhG_Vq8",
+        "thumbnail": "img/portadas-videos/video11.jpg",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 18,
+        "title": "The Listening Game",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "The Listening Game",
+        "link": null
+      },
+      {
+        "id": 19,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "youtube",
+        "mediaUrl": "https://www.youtube.com/embed/xUUq0HuSLS0",
+        "thumbnail": "img/portadas-videos/video12.jpg",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 20,
+        "title": "Thought Bubbles",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "Thought Bubbles",
+        "link": null
+      },
+      {
+        "id": 21,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "youtube",
+        "mediaUrl": "https://www.youtube.com/embed/b5LLfdhGekA",
+        "thumbnail": "img/portadas-videos/video13.jpg",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 22,
+        "title": "Why Are Some People Mean?",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "Why Are Some People Mean?",
+        "link": null
+      },
+      {
+        "id": 23,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "youtube",
+        "mediaUrl": "https://www.youtube.com/embed/jzYtNWjQiK0",
+        "thumbnail": "img/portadas-videos/video14.jpg",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 24,
+        "title": "Yes You Can!",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "Yes You Can!",
+        "link": null
+      },
+      {
+        "id": 25,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "youtube",
+        "mediaUrl": "https://www.youtube.com/embed/A0kaS7jny_I",
+        "thumbnail": "img/portadas-videos/video15.jpg",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 26,
+        "title": "The Bye Bye Boat",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "The Bye Bye Boat",
+        "link": null
+      },
+      {
+        "id": 27,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "youtube",
+        "mediaUrl": "https://www.youtube.com/embed/jJ9zpRAPIuI",
+        "thumbnail": "img/portadas-videos/video16.jpg",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 28,
+        "title": "Superpower Listening",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "Superpower Listening",
+        "link": null
+      },
+      {
+        "id": 29,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "youtube",
+        "mediaUrl": "https://www.youtube.com/embed/yx_8bnRYL08",
+        "thumbnail": "img/portadas-videos/video17.jpg",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 30,
+        "title": "Candle of Concentration",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "Candle of Concentration",
+        "link": null
+      },
+      {
+        "id": 31,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "youtube",
+        "mediaUrl": "https://www.youtube.com/embed/EJNOsvTnR1k",
+        "thumbnail": "img/portadas-videos/video18.jpg",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 32,
+        "title": "How to beat nerves!",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "How to beat nerves!",
+        "link": null
+      },
+      {
+        "id": 33,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "youtube",
+        "mediaUrl": "https://www.youtube.com/embed/2oF5JL-Q-O0",
+        "thumbnail": "img/portadas-videos/video19.jpg",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 34,
+        "title": "Taste Test",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "Taste Test",
+        "link": null
+      },
+      {
+        "id": 35,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "youtube",
+        "mediaUrl": "https://www.youtube.com/embed/VUs9WxPGoGU",
+        "thumbnail": "img/portadas-videos/video20.jpg",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 36,
+        "title": "Mine!",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "Mine!",
+        "link": null
+      },
+      {
+        "id": 37,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "youtube",
+        "mediaUrl": "https://www.youtube.com/embed/JTb1XgZ3x-w",
+        "thumbnail": "img/portadas-videos/video21.jpg",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 38,
+        "title": "Movies in My Mind",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "img/portadas-videos/img2.jpg",
+        "alt": "Movies in My Mind",
+        "link": null
+      },
+      {
+        "id": 39,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "youtube",
+        "mediaUrl": "https://www.youtube.com/embed/yRGJEyqi55o",
+        "thumbnail": "img/portadas-videos/video22.jpg",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 40,
+        "title": "Magic Carpet Ride",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "Magic Carpet Ride",
+        "link": null
+      },
+      {
+        "id": 41,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "youtube",
+        "mediaUrl": "https://www.youtube.com/embed/dKa2LHYcln4",
+        "thumbnail": "img/portadas-videos/video23.jpg",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 42,
+        "title": "Walking through the Jungle",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "Walking through the Jungle",
+        "link": null
+      },
+      {
+        "id": 43,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "youtube",
+        "mediaUrl": "https://www.youtube.com/embed/trJ0JlBN8c4",
+        "thumbnail": "img/portadas-videos/video25.jpg",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 44,
+        "title": "Hello Sun Fun",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "Hello Sun Fun",
+        "link": null
+      },
+      {
+        "id": 45,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "youtube",
+        "mediaUrl": "https://www.youtube.com/embed/c4jXp9TcqZU",
+        "thumbnail": "img/portadas-videos/video26.jpg",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 46,
+        "title": "Stir it Up!",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "Stir it Up!",
+        "link": null
+      },
+      {
+        "id": 47,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "youtube",
+        "mediaUrl": "https://www.youtube.com/embed/JqBjmmJAqec",
+        "thumbnail": "img/portadas-videos/video27.jpg",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 48,
+        "title": "Focus Potion",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "Focus Potion",
+        "link": null
+      },
+      {
+        "id": 49,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "youtube",
+        "mediaUrl": "https://www.youtube.com/embed/dnwHDN6Dw7Q",
+        "thumbnail": "img/portadas-videos/video28.jpg",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 50,
+        "title": "Sit and Stretch",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "Sit and Stretch",
+        "link": null
+      },
+      {
+        "id": 51,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "youtube",
+        "mediaUrl": "https://www.youtube.com/embed/pi6Sg4dKgZ0",
+        "thumbnail": "img/portadas-videos/video30.jpg",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 52,
+        "title": "Deep Sea Core Strength",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "Deep Sea Core Strength",
+        "link": null
+      },
+      {
+        "id": 53,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "youtube",
+        "mediaUrl": "https://www.youtube.com/embed/lx08FrWBp0g",
+        "thumbnail": "img/portadas-videos/video31.jpg",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 54,
+        "title": "Spidey Superpowers",
+        "subtitle": "More resources",
+        "description": "",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "Spidey Superpowers",
+        "link": null
+      }
+    ]
+  },
+  "minibooks": {
+    "id": "minibooks",
+    "filename": "minibooks.html",
+    "title": "Sitio Primaria",
+    "heading": "Minibooks",
+    "sections": [
+      {
+        "subtitle": "1°, 2°, 3° Grades",
+        "intro": "This is a series of 18 Mini books. Each chapter is based on the scenarios of the new English Curriculum for first cycle. It is aimed to promote enjoyment for reading in young children as well as the development of reading and listening skills mainly. Of course, these two skills can be combined with speaking and writing skills according with the goals the teacher is working with. The mini-books have colorful images to make the reading process more meaningful and attractive for children. Audios were created to provide a good pronunciation and intonation model as children are exposed to choral reading or self-reading. At the end of each mini-book, children will find an activity to check their understanding of the reading. There is also a worksheet where children solve another reading task. A sample lesson has been provided with the pedagogical mediation which includes the following steps: Pre-Teaching, Warm up, Activation of Prior Knowledge, Modeling, Clarifying, Pre-Task, Task Rehearsal, Task Completion, Task Assessment.",
+        "link": "https://www.mep.go.cr/educatico/english-mini-books-first-cycle",
+        "image": "img/img_minibooks.jpg",
+        "alt": "English Mini Books First Cycle"
+      },
+      {
+        "heading": "Family celebrations Minibooks",
+        "subtitle": "1°, 2°, 3° Grades",
+        "intro": "This booklet is about how a Costa Rican family celebrates different holidays. Its purpose is to develop reading, writing and oral skills, since the teacher can use it to carry out various activities with the students.",
+        "link": "https://www.mep.go.cr/educatico/family-celebrations-costa-rica-minibook",
+        "image": "img/family.png",
+        "alt": "Family Celebrations Minibook"
+      }
+    ]
+  },
+  "digital_modules": {
+    "id": "digital_modules",
+    "filename": "digital_modules.html",
+    "title": "Sitio Primaria",
+    "heading": "Digital Learning Modules",
+    "subtitle": "Scenario: Weather wise",
+    "intro": "Recurso Interactivo, multimedial para el uso de estudiantes de cuarto grado con la guía del o la docente. Tiene como propósito desarrollar competencias tecnológicas para apoyar sus actividades de aprendizaje durante el desarrollo de las competencias lingüísticas en el área de inglés, presentes en el Programa de Estudio.",
+    "modalTitle": "",
+    "downloadGuides": [],
+    "carouselSlides": [],
+    "cards": [
+      {
+        "id": 1,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "img/weatherwise.jpg",
+        "alt": "",
+        "link": {
+          "href": "https://www.mep.go.cr/educatico/weather-wise",
+          "label": ""
+        }
+      },
+      {
+        "id": 2,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "img/natural.jpg",
+        "alt": "",
+        "link": {
+          "href": "https://www.mep.go.cr/educatico/natural-treasures",
+          "label": ""
+        }
+      },
+      {
+        "id": 3,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "img/farm.png",
+        "alt": "",
+        "link": {
+          "href": "https://www.mep.go.cr/educatico/farm-table",
+          "label": ""
+        }
+      },
+      {
+        "id": 4,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "img/img_take_care.jpg",
+        "alt": "",
+        "link": {
+          "href": "https://www.mep.go.cr/educatico/take-care",
+          "label": ""
+        }
+      }
+    ]
+  },
+  "ABCmouse": {
+    "id": "ABCmouse",
+    "filename": "ABCmouse.html",
+    "title": "Sitio Primaria",
+    "heading": "ABCmouse",
+    "subtitle": "Hello teachers! Exciting news!",
+    "intro": "Explore this informative webpage for amazing resources to integrate ABCmouse Aprende Inglés in your classroom. Here you will find a complete guide for English teachers, sample lesson plans, certificates, and much more. It's all specially designed to help you teach better and make learning super fun! Take a tour through the website and discover valuable resources for your classes.",
+    "modalTitle": "More resources",
+    "downloadGuides": [],
+    "carouselSlides": [],
+    "cards": [
+      {
+        "id": 1,
+        "title": "Understanding the App",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "docx",
+        "mediaUrl": "data/ABCmouse/understanding_the_app.docx",
+        "thumbnail": "",
+        "alt": "Understanding the App",
+        "link": null
+      },
+      {
+        "id": 2,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "pdf",
+        "mediaUrl": "data/ABCmouse/Aprende_Teacher Resource Alignment.xlsx",
+        "thumbnail": "data/ABCmouse/img_Alig.jpg",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 3,
+        "title": "Teacher Resource Alignment",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "Teacher Resource Alignment",
+        "link": null
+      },
+      {
+        "id": 4,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "pdf",
+        "mediaUrl": "data/ABCmouse/lessonplan_1grade_examples.pdf",
+        "thumbnail": "data/ABCmouse/img_lesson_1grade.jpg",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 5,
+        "title": "Sample Lesson First Grade",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "Sample Lesson First Grade",
+        "link": null
+      },
+      {
+        "id": 6,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "pdf",
+        "mediaUrl": "img/aprende_certificate_SP.pdf",
+        "thumbnail": "img/cert_esp.jpg",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 7,
+        "title": "Certificado en Español",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "Certificado en Español",
+        "link": null
+      },
+      {
+        "id": 8,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "pdf",
+        "mediaUrl": "img/aprende_certificate_en.pdf",
+        "thumbnail": "img/studentscertificate2.jpg",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 9,
+        "title": "Student´s Certificate in English",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "Student´s Certificate in English",
+        "link": null
+      },
+      {
+        "id": 10,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "pdf",
+        "mediaUrl": "data/ABCmouse/Integrating.pdf",
+        "thumbnail": "data/ABCmouse/integrating.jpg",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 11,
+        "title": "Integrating ABCmouse Aprende Inglés: A Guide for MEP Elementary English Teachers- “Enhancing Language Acquisition through Technology”",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "Integrating ABCmouse Aprende Inglés: A Guide for MEP Elementary English Teachers- “Enhancing Language Acquisition through Technology”",
+        "link": null
+      },
+      {
+        "id": 12,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "pdf",
+        "mediaUrl": "data/ABCmouse/Lesson Plan_ Unit _Week4_Integrated Mini Project.pdf",
+        "thumbnail": "img/imglessonU6W4.jpg",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 13,
+        "title": "Lesson Plan Unit 6 Week 4 and Integrated Miniproject",
+        "subtitle": "More resources",
+        "description": "",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "Lesson Plan Unit 6 Week 4 and Integrated Miniproject",
+        "link": null
+      }
+    ]
+  },
+  "otros": {
+    "id": "otros",
+    "filename": "otros.html",
+    "title": "Sitio Primaria",
+    "heading": "More resources",
+    "subtitle": "",
+    "intro": "",
+    "modalTitle": "More resources",
+    "downloadGuides": [
+      {
+        "href": "data/other/pdf/tefl.pdf",
+        "label": ""
+      }
+    ],
+    "carouselSlides": [],
+    "cards": [
+      {
+        "id": 1,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "youtube",
+        "mediaUrl": "https://www.youtube.com/embed/YJiizbdjrsM",
+        "thumbnail": "img/portadas-videos/video1.jpg",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 2,
+        "title": "CR National Team Spreads the Word English Is Important!",
+        "subtitle": "",
+        "description": "Members of the Costa Rica National Team had some encouraging words for the champions who made it to the final level of competition at the first National English Festival, November 16-18, 2015 at EARTH University.",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "CR National Team Spreads the Word English Is Important!",
+        "link": null
+      },
+      {
+        "id": 3,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "youtube",
+        "mediaUrl": "https://www.youtube.com/embed/tkhYrO7UxFU",
+        "thumbnail": "img/portadas-videos/video2.jpg",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 4,
+        "title": "Transforming the English Classroom through Action –Oriented Teaching and Learning",
+        "subtitle": "",
+        "description": "An example of class based on the Costa Ricans New English Curriculum",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "Transforming the English Classroom through Action –Oriented Teaching and Learning",
+        "link": null
+      },
+      {
+        "id": 5,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "youtube",
+        "mediaUrl": "https://www.youtube.com/embed/6yHLBpyBfs8",
+        "thumbnail": "img/portadas-videos/video3.jpg",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 6,
+        "title": "How are you?",
+        "subtitle": "",
+        "description": "Video created with the collaboration of the language students of the UCR and MEP.",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "How are you?",
+        "link": null
+      },
+      {
+        "id": 7,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "youtube",
+        "mediaUrl": "https://www.youtube.com/embed/Lq0SsBQw6Ms",
+        "thumbnail": "img/portadas-videos/video4.jpg",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 8,
+        "title": "Phonemic Awareness",
+        "subtitle": "",
+        "description": "Activities for developing phonemic awareness",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "Phonemic Awareness",
+        "link": null
+      },
+      {
+        "id": 9,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "youtube",
+        "mediaUrl": "https://www.youtube.com/embed/zxtG3Y1nrkY",
+        "thumbnail": "img/portadas-videos/video5.jpg",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 10,
+        "title": "El video Tutorial: Phonemic awareness.",
+        "subtitle": "",
+        "description": "This video presents the English teacher Erick Ceciliano Matamoros doing a demonstration of phonemic awareness lesson for second grade.",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "El video Tutorial: Phonemic awareness.",
+        "link": null
+      },
+      {
+        "id": 11,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "youtube",
+        "mediaUrl": "https://www.youtube.com/embed/tkhYrO7UxFU",
+        "thumbnail": "img/portadas-videos/video6.jpg",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 12,
+        "title": "Transforming the English Classroom through Action –Oriented Teaching and Learning",
+        "subtitle": "",
+        "description": "This tutorial video presents the English teacher Jonathan Elizondo sharing a successful experience with first grade called Mini Books.",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "Transforming the English Classroom through Action –Oriented Teaching and Learning",
+        "link": null
+      },
+      {
+        "id": 13,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "youtube",
+        "mediaUrl": "https://www.youtube.com/embed/LErhOCSaGV0",
+        "thumbnail": "img/portadas-videos/video7.jpg",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 14,
+        "title": "Global Steam Classroom Initiative: Nueva Laboratorio Emma Gamboa School",
+        "subtitle": "",
+        "description": "Implementation of Global Steam Classroom Initiative between Nueva Laboratorio Emma Gamboa School and Centreville School Supported on the Whole Language Philosophy through 2016-2017.",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "Global Steam Classroom Initiative: Nueva Laboratorio Emma Gamboa School",
+        "link": null
+      },
+      {
+        "id": 15,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "youtube",
+        "mediaUrl": "https://www.youtube.com/embed/VvfJdg-Nj-g",
+        "thumbnail": "img/portadas-videos/video8.jpg",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 16,
+        "title": "A Dice Game for locating objects in the classroom",
+        "subtitle": "",
+        "description": "This video demonstrates the stages of a mini-project intended to integrate language skills while students are playing with dice.",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "A Dice Game for locating objects in the classroom",
+        "link": null
+      },
+      {
+        "id": 17,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "youtube",
+        "mediaUrl": "https://www.youtube.com/embed/nlNhVWeFTjc",
+        "thumbnail": "img/portadas-videos/video9.jpg",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 18,
+        "title": "Watch my family Mini projects video",
+        "subtitle": "",
+        "description": "This video highlights an innovative way to introduce mobile phones with videotaping as a way to create an authentic communicative task. The active involvement of the student´s family and the school community are positive aspects of this mini-project.",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "Watch my family Mini projects video",
+        "link": null
+      },
+      {
+        "id": 19,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "youtube",
+        "mediaUrl": "https://www.youtube.com/embed/sNMp3uFWMzM",
+        "thumbnail": "img/portadas-videos/video10.jpg",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 20,
+        "title": "Connecting classrooms through video calls",
+        "subtitle": "",
+        "description": "This mini-project consists of connecting two classroom through video calls so that two group of students in first grade can interact in English in more natural scenarios using this technology.",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "Connecting classrooms through video calls",
+        "link": null
+      },
+      {
+        "id": 21,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "youtube",
+        "mediaUrl": "https://www.youtube.com/watch?v=U5Y0SjoyZmU&feature=youtu.be",
+        "thumbnail": "img/portadas-videos/video101.jpg",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 22,
+        "title": "Identifying the initial phoneme or sound /o/ in a word self-learning",
+        "subtitle": "",
+        "description": "In this video children learn to identify the initial sound /o/ in the words.",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "Identifying the initial phoneme or sound /o/ in a word self-learning",
+        "link": null
+      },
+      {
+        "id": 23,
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "mediaType": "youtube",
+        "mediaUrl": "https://www.youtube.com/watch?v=sGCYBhltN9I&feature=youtu.be",
+        "thumbnail": "img/portadas-videos/video102.jpg",
+        "alt": "",
+        "link": null
+      },
+      {
+        "id": 24,
+        "title": "This is These are self-learning",
+        "subtitle": "More resources",
+        "description": "In this video children learn the use of words \"THIS IS\" and \"THESE ARE\"",
+        "mediaType": "image",
+        "mediaUrl": "",
+        "thumbnail": "",
+        "alt": "This is These are self-learning",
+        "link": null
+      }
+    ]
+  },
+  "contacto": {
+    "id": "contacto",
+    "filename": "contacto.html",
+    "title": "Sitio Primaria",
+    "heading": "Contacto",
+    "departments": [
+      {
+        "title": "Datos de contacto",
+        "role": "Asesores nacionales de Inglés",
+        "staff": [
+          "Ana Campos Centeno",
+          "Randall Centeno Hernandez"
+        ],
+        "emails": [
+          "ana.campos.centeno@mep.go.cr",
+          "randall.centeno.hernandez@mep.go.cr"
+        ],
+        "department": "Departamento de Primero y Segundo Ciclos, Dirección de Desarrollo Curricular.",
+        "location": "Edificio Raventós",
+        "phone": "2221-7685, ext: 2557"
+      },
+      {
+        "title": "Desarrolladores",
+        "role": "Asesores de Informática Educativa",
+        "staff": [
+          "Patricia Hernández Conejo",
+          "Ana Teresa Araya Salazar",
+          "Óscar Pérez Ramírez",
+          "Luis Chacón Campos"
+        ],
+        "additionalRole": "Asesora nacional de Inglés",
+        "additionalStaff": [
+          "Katherine Williams Jiménez"
+        ],
+        "emails": [
+          "gespro@mep.go.cr"
+        ],
+        "phone": "22553525, ext: 4622"
+      }
+    ]
+  },
+  "creditos": {
+    "id": "creditos",
+    "filename": "creditos.html",
+    "title": "Sitio Primaria",
+    "heading": "Créditos",
+    "images": [
+      {
+        "src": "img/credit.png",
+        "alt": "Créditos Institucionales Parte 1"
+      },
+      {
+        "src": "img/credit2.png",
+        "alt": "Créditos Institucionales Parte 2"
+      }
+    ]
+  }
+}

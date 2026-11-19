@@ -1,0 +1,97 @@
+{
+  "generatedAt": "2026-11-19T14:26:24.540Z",
+  "pagesCount": 14,
+  "totalCards": 284,
+  "mediaStats": {
+    "audios": 58,
+    "videos": 39,
+    "pdfs": 45,
+    "ppts": 0
+  },
+  "pages": [
+    {
+      "id": "index",
+      "heading": "Primary",
+      "cardsCount": 10,
+      "guidesCount": 0
+    },
+    {
+      "id": "primero",
+      "heading": "First Grade",
+      "cardsCount": 41,
+      "guidesCount": 1
+    },
+    {
+      "id": "segundo",
+      "heading": "Primary",
+      "cardsCount": 39,
+      "guidesCount": 1
+    },
+    {
+      "id": "tercero",
+      "heading": "Primary",
+      "cardsCount": 61,
+      "guidesCount": 1
+    },
+    {
+      "id": "cuarto",
+      "heading": "Primary",
+      "cardsCount": 6,
+      "guidesCount": 6
+    },
+    {
+      "id": "quinto",
+      "heading": "Primary",
+      "cardsCount": 14,
+      "guidesCount": 16
+    },
+    {
+      "id": "sexto",
+      "heading": "Primary",
+      "cardsCount": 18,
+      "guidesCount": 12
+    },
+    {
+      "id": "warmups",
+      "heading": "Some warm up activities",
+      "cardsCount": 54,
+      "guidesCount": 0
+    },
+    {
+      "id": "minibooks",
+      "heading": "Minibooks",
+      "cardsCount": 0,
+      "guidesCount": 0
+    },
+    {
+      "id": "digital_modules",
+      "heading": "Digital Learning Modules",
+      "cardsCount": 4,
+      "guidesCount": 0
+    },
+    {
+      "id": "ABCmouse",
+      "heading": "ABCmouse",
+      "cardsCount": 13,
+      "guidesCount": 0
+    },
+    {
+      "id": "otros",
+      "heading": "More resources",
+      "cardsCount": 24,
+      "guidesCount": 1
+    },
+    {
+      "id": "contacto",
+      "heading": "Sitio Primaria",
+      "cardsCount": 0,
+      "guidesCount": 0
+    },
+    {
+      "id": "creditos",
+      "heading": "Sitio Primaria",
+      "cardsCount": 0,
+      "guidesCount": 0
+    }
+  ]
+}

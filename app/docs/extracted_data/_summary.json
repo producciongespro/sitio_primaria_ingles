@@ -1,0 +1,72 @@
+{
+  "index.html": {
+    "title": "Sitio Primaria",
+    "heading": "Primary",
+    "cardsCount": 10
+  },
+  "primero.html": {
+    "title": "Sitio Primaria",
+    "heading": "First Grade",
+    "cardsCount": 41
+  },
+  "segundo.html": {
+    "title": "Sitio Primaria",
+    "heading": "Primary",
+    "cardsCount": 39
+  },
+  "tercero.html": {
+    "title": "Sitio Primaria",
+    "heading": "Primary",
+    "cardsCount": 61
+  },
+  "cuarto.html": {
+    "title": "Sitio Primaria",
+    "heading": "Primary",
+    "cardsCount": 6
+  },
+  "quinto.html": {
+    "title": "Sitio Primaria",
+    "heading": "Primary",
+    "cardsCount": 14
+  },
+  "sexto.html": {
+    "title": "Sitio Primaria",
+    "heading": "Primary",
+    "cardsCount": 18
+  },
+  "warmups.html": {
+    "title": "Sitio Primaria",
+    "heading": "Some warm up activities",
+    "cardsCount": 54
+  },
+  "minibooks.html": {
+    "title": "Sitio Primaria",
+    "heading": "Minibooks",
+    "cardsCount": 0
+  },
+  "digital_modules.html": {
+    "title": "Sitio Primaria",
+    "heading": "Digital Learning Modules",
+    "cardsCount": 4
+  },
+  "ABCmouse.html": {
+    "title": "Sitio Primaria",
+    "heading": "ABCmouse",
+    "cardsCount": 13
+  },
+  "otros.html": {
+    "title": "Sitio Primaria",
+    "heading": "More resources",
+    "cardsCount": 24
+  },
+  "contacto.html": {
+    "title": "Sitio Primaria",
+    "heading": "",
+    "cardsCount": 0
+  },
+  "creditos.html": {
+    "title": "Sitio Primaria",
+    "heading": "",
+    "cardsCount": 0
+  }
+}
